@@ -1,4 +1,4 @@
-kali-menu (0.1) unstable; urgency=low
+kali-menu (0.1) kali; urgency=low
 
   * Initial Release.
   * Trigger /usr/share/applications in postinst to force a regeneration
