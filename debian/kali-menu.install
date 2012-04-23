@@ -1,0 +1,2 @@
+menus/kali-applications.menu etc/xdg/menus/applications-merged/
+desktop-directories/*.directory usr/share/desktop-directories/

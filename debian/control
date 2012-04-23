@@ -1,0 +1,17 @@
+Source: kali-menu
+Section: gnome
+Priority: optional
+Maintainer: Raphaël Hertzog <hertzog@debian.org>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.8.4
+Vcs-Git: ssh://git@git.kali.org/packages/kali-menu.git
+Vcs-Browser: http://git.kali.org/gitweb/?p=packages/kali-menu.git;a=summary
+
+Package: kali-menu
+Architecture: all
+Depends: ${misc:Depends}
+Description: Kali Linux custom menu
+ This package provides a custom menu for Kali Linux.
+ .
+ It is used by any destkop that complies with the Freedesktop menu
+ specification at http://standards.freedesktop.org/menu-spec/menu-spec-1.0.html

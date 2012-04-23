@@ -1,0 +1,1324 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+<Name>Kali Applications</Name>
+
+<!-- Kali submenu -->
+<Menu>
+    <Name>Kali</Name>
+    <Layout>
+        <Merge type="menus"/>
+        <Menuname>Information Gathering</Menuname>
+        <Menuname>Vulnerability Assessment</Menuname>
+        <Menuname>Exploitation</Menuname>
+        <Menuname>Privilege Escalation</Menuname>
+        <Menuname>Maintaining Access</Menuname>
+        <Menuname>Reverse Engineering</Menuname>
+        <Menuname>RFID Tools</Menuname>
+        <Menuname>Stress Testing Tools</Menuname>
+        <Menuname>Forensics</Menuname>
+        <Menuname>Reporting Tools</Menuname>
+        <Menuname>Services</Menuname>
+        <Menuname>Miscellaneous</Menuname>
+    </Layout>
+    
+    <Directory>Kali.directory</Directory>
+    
+    <Menu>
+        <Name>Information Gathering</Name>
+        
+        <Layout>
+            <Merge type="menus"/>
+            <Menuname>Network Analysis</Menuname>
+            <Menuname>Web Application Analysis</Menuname>
+            <Menuname>Database Analysis</Menuname>
+            <Menuname>Wireless Analysis</Menuname>
+        </Layout>
+        
+        <Directory>01-info-gathering.directory</Directory>
+        
+        <Menu>
+            <Name>Network Analysis</Name>
+            <Directory>01-01-network-analysis.directory</Directory>
+            <Include>
+                <And>
+                    <Category>01-01-network-analysis</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Network Traffic Analysis</Name>
+                <Directory>01-01-05-network-traffic-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-05-network-traffic-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>Identify Live Hosts</Name>
+                <Directory>01-01-02-identify-live-hosts.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-02-identify-live-hosts</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>DNS Analysis</Name>
+                <Directory>01-01-01-dns-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-01-dns-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>Route Analysis</Name>
+                <Directory>01-01-08-route-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-08-route-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>OS Fingerprinting</Name>
+                <Directory>01-01-06-os-fingerprinting.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-06-os-fingerprinting</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>Service Fingerprinting</Name>
+                <Directory>01-01-09-service-fingerprinting.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-09-service-fingerprinting</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>IDS IPS Identification</Name>
+                <Directory>01-01-03-ids-ips-identification.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-03-ids-ips-identification</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>Network Scanners</Name>
+                <Directory>01-01-04-network-scanners.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-04-network-scanners</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>SMTP Analysis</Name>
+                <Directory>01-01-11-smtp-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-11-smtp-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>SMB Analysis</Name>
+                <Directory>01-01-10-smb-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-10-smb-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>SNMP Analysis</Name>
+                <Directory>01-01-12-snmp-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-12-snmp-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>SSL Analysis</Name>
+                <Directory>01-01-13-ssl-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-13-ssl-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>VOIP Analysis</Name>
+                <Directory>01-01-15-voip-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-15-voip-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>VPN Analysis</Name>
+                <Directory>01-01-16-vpn-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-16-vpn-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Phone Systems Analysis</Name>
+                <Directory>01-01-14-telephony-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-14-telephony-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Open Source Information Gathering</Name>
+                <Directory>01-01-07-osint-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-01-07-osint-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Wireless Analysis</Name>
+            <Directory>01-04-wireless-analysis.directory</Directory>
+            <Include>
+                <And>
+                    <Category>01-04-wireless-analysis</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Wireless Analysis</Name>
+                <Directory>01-04-02-wlan-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-04-02-wlan-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Bluetooth Analysis</Name>
+                <Directory>01-04-01-bluetooth-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-04-01-bluetooth-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Web Application Analysis</Name>
+            <Directory>01-02-web-application-analysis.directory</Directory>
+            <Include>
+                <And>
+                    <Category>01-02-web-application-analysis</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Web IPS IDS Analysis</Name>
+                <Directory>01-02-02-ids-ips-identification.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-02-02-ids-ips-identification</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Web Crawlers</Name>
+                <Directory>01-02-04-web-crawlers.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-02-04-web-crawlers</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>CMS Identification</Name>
+                <Directory>01-02-01-cms-identification.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-02-01-cms-identification</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Open Source Information Gathering</Name>
+                <Directory>01-02-03-open-source-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-02-03-open-source-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Database Analysis</Name>
+            <Directory>01-03-database-analysis.directory</Directory>
+            <Include>
+                <And>
+                    <Category>01-03-database-analysis</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>MySQL Analysis</Name>
+                <Directory>01-03-02-mysql-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-03-02-mysql-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>MSSQL Analysis</Name>
+                <Directory>01-03-01-mssql-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-03-01-mssql-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Oracle Analysis</Name>
+                <Directory>01-03-03-oracle-analysis.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>01-03-03-oracle-analysis</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>Vulnerability Assessment</Name>
+        <Layout>
+            <Merge type="menus"/>
+            <Menuname>Network Assessment</Menuname>
+            <Menuname>Web Application Assessment</Menuname>
+            <Menuname>Database Assessment</Menuname>
+        </Layout>
+        <Directory>02-vulnerability-analysis.directory</Directory>
+        
+        <Menu>
+            <Name>Network Assessment</Name>
+            <Directory>02-02-network-assessment.directory</Directory>
+            
+            <Menu>
+                <Name>Cisco Tools</Name>
+                <Directory>02-02-01-cisco-tools.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-02-01-cisco-tools</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Network Fuzzers</Name>
+                <Directory>02-02-02-network-fuzzer.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-02-02-network-fuzzer</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>VOIP Fuzzers</Name>
+                <Directory>02-02-04-voip-fuzzers.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-02-04-voip-fuzzers</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Open Source Information Assessment</Name>
+                <Directory>02-02-03-open-source-assessment.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-02-03-open-source-assessment</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Web Application Assessment</Name>
+            <Directory>02-03-web-application-assessment.directory</Directory>
+            
+            <Menu>
+                <Name>CMS Vulnerability Identification</Name>
+                <Directory>02-03-01-cms-vulnerability-identification.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-03-01-cms-vulnerability-identification</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Web Vulnerability Scanners</Name>
+                <Directory>02-03-05-web-vulnerability-scanners.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-03-05-web-vulnerability-scanners</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Web Attack Proxies</Name>
+                <Directory>02-03-03-web-application-proxies.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-03-03-web-application-proxies</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Web Fuzzers</Name>
+                <Directory>02-03-02-web-application-fuzzers.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-03-02-web-application-fuzzers</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Open Source Web Application Assessment</Name>
+                <Directory>02-03-04-web-open-source-assessment.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-03-04-web-open-source-assessment</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Database Assessment</Name>
+            <Directory>02-04-database-assessment.directory</Directory>
+            <Include>
+                <And>
+                    <Category>02-04-database-assessment</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>MySQL Assessment</Name>
+                <Directory>02-04-02-mysql-assessment.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-04-02-mysql-assessment</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>MSSQL Assessment</Name>
+                <Directory>02-04-01-mssql-assessment.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-04-01-mssql-assessment</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Oracle Assessment</Name>
+                <Directory>02-04-03-oracle-assessment.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-04-03-oracle-assessment</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Vulnerability Scanners</Name>
+            <Directory>02-01-vulnerability-scanners.directory</Directory>
+            <Include>
+                <And>
+                    <Category>02-01-vulnerability-scanners</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Nessus</Name>
+                <Directory>02-01-01-nessus.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-01-01-nessus</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Saint</Name>
+                <Directory>02-01-02-saint.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-01-02-saint</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Nexpose</Name>
+                <Directory>02-01-03-nexpose.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-01-03-nexpose</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>OpenVAS</Name>
+                <Directory>02-01-04-openvas.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>02-01-04-openvas</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>Exploitation</Name>
+        <Layout>
+            <Merge type="menus"/>
+            <Menuname>Network Exploitation Tools</Menuname>
+            <Menuname>Web Exploitation Tools</Menuname>
+            <Menuname>Database Exploitation Tools</Menuname>
+            <Menuname>Wireless Exploitation Tools</Menuname>
+            <Menuname>Social Exploitation Tools</Menuname>
+            <Menuname>Physical Exploitation Tools</Menuname>
+            <Menuname>Open Source Exploitation Tools</Menuname>
+        </Layout>
+        <Directory>03-exploitation-tools.directory</Directory>
+        
+        <Menu>
+            <Name>Network Exploitation Tools</Name>
+            <Directory>03-01-network-exploitation-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>03-01-network-exploitation-tools</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Cisco Exploitation</Name>
+                <Directory>03-01-01-cisco-attacks.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-01-01-cisco-attacks</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Metasploit Framework</Name>
+                <Directory>03-01-03-metasploit-framework.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-01-03-metasploit-framework</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>SAP Exploitation</Name>
+                <Directory>03-01-04-sap-exploitation.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-01-04-sap-exploitation</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Web Exploitation Tools</Name>
+            <Directory>03-01-web-exploitation-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>03-01-web-exploitation-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Database Exploitation Tools</Name>
+            <Directory>03-03-database-exploitation-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>03-03-database-exploitation-tools</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>MySQL Exploitation</Name>
+                <Directory>03-03-02-mysql-exploitation-tools.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-03-02-mysql-exploitation-tools</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>MSSQL Exploitation</Name>
+                <Directory>03-03-01-mssql-exploitation-tools.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-03-01-mssql-exploitation-tools</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Oracle Exploitation</Name>
+                <Directory>03-03-03-oracle-exploitation-tools.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-03-03-oracle-exploitation-tools</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Wireless Exploitation Tools</Name>
+            <Directory>03-04-wireless-exploitation-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>03-04-wireless-exploitation-tools</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>WLAN Exploitation Tools</Name>
+                <Directory>03-04-02-wlan-exploitation.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-04-02-wlan-exploitation</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>BlueTooth Exploitation Tools</Name>
+                <Directory>03-04-01-bluetooth-exploitation.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-04-01-bluetooth-exploitation</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Social Exploitation Tools</Name>
+            <Directory>03-05-social-engineering-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>03-05-social-engineering-tools</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>BEEF XSS Framework</Name>
+                <Directory>03-05-01-beef-xss-framework.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-05-01-beef-xss-framework</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Social Engineering Toolkit</Name>
+                <Directory>03-05-03-social-engineering-toolkit.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-05-03-social-engineering-toolkit</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Honeypots</Name>
+                <Directory>03-05-02-honeypots.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-05-02-honeypots</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Physical Exploitation Tools</Name>
+            <Directory>BT-Physical-Exploitation.directory</Directory>
+            <Include>
+                <And>
+                    <Category>BT-Physical-Exploitation</Category>
+                </And>
+            </Include>
+
+            <Menu>
+                <Name>Documentation</Name>
+                <Directory>bt-physical-exploitation-doc.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>bt-physical-exploitation-doc</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Open Source Exploitation Tools</Name>
+            <Directory>03-06-open-source-exploitation.directory</Directory>
+            <Include>
+                <And>
+                    <Category>03-06-open-source-exploitation</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Exploit Database Archive</Name>
+                <Directory>03-06-01-exploit-db.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-06-01-exploit-db</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Online Exploit Archives</Name>
+                <Directory>03-06-02-online-archives.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>03-06-02-online-archives</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>Privilege Escalation</Name>
+        <Directory>04-privilege-escalation.directory</Directory>
+        
+        <Menu>
+            <Name>Media</Name>
+            <Directory>04-02-privilege-escalation-media.directory</Directory>
+            <Include>
+                <And>
+                    <Category>04-02-privilege-escalation-media</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Video and Surveillance</Name>
+                <Directory>04-02-01-voice-and-surveillance.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-02-01-voice-and-surveillance</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>VOIP</Name>
+                <Directory>04-02-02-voip-tools.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-02-02-voip-tools</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Password Attacks</Name>
+            <Directory>04-01-password-attacks.directory</Directory>
+            <Include>
+                <And>
+                    <Category>04-01-password-attacks</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Online Attacks</Name>
+                <Directory>04-01-03-online-attacks.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-01-03-online-attacks</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Offline Attacks</Name>
+                <Directory>04-01-02-offline-attacks.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-01-02-offline-attacks</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>GPU Tools</Name>
+                <Directory>04-01-01-gpu-tools.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-01-01-gpu-tools</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Sniffing Tools</Name>
+            <Directory>04-03-protocol-analysis.directory</Directory>
+            <Include>
+                <And>
+                    <Category>04-03-protocol-analysis</Category>
+                </And>
+            </Include>
+
+            <Menu>
+                <Name>Network Sniffers</Name>
+                <Directory>04-03-01-network-sniffers.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-03-01-network-sniffers</Category>
+                    </And>
+                </Include>
+            </Menu>
+
+            <Menu>
+                <Name>VOIP Sniffers</Name>
+                <Directory>04-03-02-voip-sniffers.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-03-02-voip-sniffers</Category>
+                    </And>
+                </Include>
+            </Menu>
+            
+            <Menu>
+                <Name>Web Sniffers</Name>
+                <Directory>04-03-03-web-sniffers.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-03-03-web-sniffers</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+        
+        <Menu>
+            <Name>Spoofing Tools</Name>
+            <Directory>04-04-spoofing-attacks.directory</Directory>
+            <Include>
+                <And>
+                    <Category>04-04-spoofing-attacks</Category>
+                </And>
+            </Include>
+            
+            <Menu>
+                <Name>Network Spoofing Tools</Name>
+                <Directory>04-04-01-network-spoofing.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-04-01-network-spoofing</Category>
+                    </And>
+                </Include>
+            </Menu>
+            <Menu>
+                <Name>VOIP Spoofing Tools</Name>
+                <Directory>04-04-02-voip-spoofing.directory</Directory>
+                <Include>
+                    <And>
+                        <Category>04-04-02-voip-spoofing</Category>
+                    </And>
+                </Include>
+            </Menu>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>Maintaining Access</Name>
+        <Directory>05-maintaining-access.directory</Directory>
+        
+        <Menu>
+            <Name>OS Backdoors</Name>
+            <Directory>05-01-os-backdoors.directory</Directory>
+            <Include>
+                <And>
+                    <Category>05-01-os-backdoors</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Web Backdoors</Name>
+            <Directory>05-03-web-backdoors.directory</Directory>
+            <Include>
+                <And>
+                    <Category>05-03-web-backdoors</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Tunelling Tools</Name>
+            <Directory>05-02-tunneling.directory</Directory>
+            <Include>
+                <And>
+                    <Category>05-02-tunneling</Category>
+                </And>
+            </Include>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>RFID Tools</Name>
+        <Directory>07-rfid-tools.directory</Directory>
+        
+        <Menu>
+            <Name>RFID PCSC</Name>
+            <Directory>07-03-rfid-pcsc.directory</Directory>
+            <Include>
+                <And>
+                    <Category>07-03-rfid-pcsc</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>RFID ACG</Name>
+            <Directory>07-01-rfid-acg.directory</Directory>
+            <Include>
+                <And>
+                    <Category>07-01-rfid-acg</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>RFID Frosch</Name>
+            <Directory>07-02-rfid-frosch.directory</Directory>
+            <Include>
+                <And>
+                    <Category>07-02-rfid-frosch</Category>
+                </And>
+            </Include>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>Stress Testing Tools</Name>
+        <Directory>08-stress-testing.directory</Directory>
+        <Menu>
+            <Name>Network Stress Testing</Name>
+            <Directory>08-01-network-stress-testing.directory</Directory>
+            <Include>
+                <And>
+                    <Category>08-01-network-stress-testing</Category>
+                </And>
+            </Include>
+        </Menu>
+         
+        <Menu>
+            <Name>WLAN Stress Testing</Name>
+            <Directory>08-03-wlan-stress-testing.directory</Directory>
+            <Include>
+                <And>
+                    <Category>08-03-wlan-stress-testing</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>VOIP Stress Testing</Name>
+            <Directory>08-02-voip-stress-testing.directory</Directory>
+            <Include>
+                <And>
+                    <Category>08-02-voip-stress-testing</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Web Stress Testing</Name>
+            <Directory>08-04-web-stress-testing.directory</Directory>
+            <Include>
+                <And>
+                    <Category>08-04-web-stress-testing</Category>
+                </And>
+            </Include>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>Reverse Engineering</Name>
+        <Directory>06-reverse-engineering.directory</Directory>
+        <Include>
+            <And>
+                <Category>06-reverse-engineering</Category>
+            </And>
+        </Include>
+    </Menu>
+    
+    <Menu>
+        <Name>Forensics</Name>
+        <Directory>09-forensics.directory</Directory>
+        <Include>
+            <And>
+                <Category>09-forensics</Category>
+            </And>
+        </Include>
+        
+        <Menu>
+            <Name>Network Forensics</Name>
+            <Directory>09-09-network-forensics.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-09-network-forensics</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Digital Forensics</Name>
+            <Directory>09-03-digital-forensics.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-03-digital-forensics</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Anti Network Forensics</Name>
+            <Directory>bt-anti-forensics-network.directory</Directory>
+            <Include>
+                <And>
+                    <Category>bt-anti-forensics-network</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Anti Digital Forensics</Name>
+            <Directory>09-02-digital-anti-forensics.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-02-digital-anti-forensics</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Forensic Imaging Tools</Name>
+            <Directory>09-07-forensic-imaging-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-07-forensic-imaging-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Forensic Hashing Tools</Name>
+            <Directory>09-06-forensic-hashing-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-06-forensic-hashing-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Forensic Suites</Name>
+            <Directory>09-08-forensic-suites.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-08-forensic-suites</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Forensic Analysis Tools</Name>
+            <Directory>09-04-forensic-analysis-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-04-forensic-analysis-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>RAM Forensics Tools</Name>
+            <Directory>09-12-ram-forensics-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-12-ram-forensics-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Forensics Carving Tools</Name>
+            <Directory>09-05-forensic-carving-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-05-forensic-carving-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>PDF Forensics Tools</Name>
+            <Directory>09-11-pdf-forensics-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-11-pdf-forensics-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Password Forensics Tools</Name>
+            <Directory>09-10-password-forensics-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-10-password-forensics-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Anti-Virus Forensics Tools</Name>
+            <Directory>09-01-anti-virus-forensics-tools.directory</Directory>
+            <Include>
+                <And>
+                    <Category>09-01-anti-virus-forensics-tools</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+    </Menu>
+    
+    <Menu>
+        <Name>Miscellaneous</Name>
+        <Directory>12-misc.directory</Directory>
+        <Include>
+            <And>
+                <Category>12-misc</Category>
+            </And>
+        </Include>
+        
+        <Menu>
+            <Name>Misc Clients</Name>
+            <Directory>bt-miscellaneous-clients.directory</Directory>
+            <Include>
+                <And>
+                    <Category>bt-miscellaneous-clients</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Misc Network</Name>
+            <Directory>12-01-misc-network.directory</Directory>
+            <Include>
+                <And>
+                    <Category>12-01-misc-network</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Misc Web</Name>
+            <Directory>12-02-misc-web.directory</Directory>
+            <Include>
+                <And>
+                    <Category>12-02-misc-web</Category>
+                </And>
+            </Include>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>Reporting Tools</Name>
+        <Directory>10-reporting-tools.directory</Directory>
+        
+        <Menu>
+            <Name>Evidence Management</Name>
+            <Directory>10-01-evidence-management.directory</Directory>
+            <Include>
+                <And>
+                    <Category>10-01-evidence-management</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Media Capture</Name>
+            <Directory>10-02-media-capture.directory</Directory>
+            <Include>
+                <And>
+                    <Category>10-02-media-capture</Category>
+                </And>
+            </Include>
+        </Menu>
+    </Menu>
+    
+    <Menu>
+        <Name>Services</Name>
+        <Directory>11-services.directory</Directory>
+        <Include>
+            <And>
+                <Category>11-services</Category>
+            </And>
+        </Include>
+        
+        <Menu>
+            <Name>Network</Name>
+            <Directory>BT-Network.directory</Directory>
+            <Include>
+                <And>
+                    <Category>BT-Network</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>HTTPD</Name>
+            <Directory>11-02-httpd.directory</Directory>
+            <Include>
+                <And>
+                    <Category>11-02-httpd</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>MySQLD</Name>
+            <Directory>11-03-mysqld.directory</Directory>
+            <Include>
+                <And>
+                    <Category>11-03-mysqld</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>SSHD</Name>
+            <Directory>11-06-sshd.directory</Directory>
+            <Include>
+                <And>
+                    <Category>11-06-sshd</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>GPSD</Name>
+            <Directory>11-01-gpsd.directory</Directory>
+            <Include>
+                <And>
+                    <Category>11-01-gpsd</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>PCSCD</Name>
+            <Directory>11-04-pcscd.directory</Directory>
+            <Include>
+                <And>
+                    <Category>11-04-pcscd</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>Radius Server</Name>
+            <Directory>BT-RADIUS.directory</Directory>
+            <Include>
+                <And>
+                    <Category>BT-RADIUS</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>SNORT Service</Name>
+            <Directory>11-05-snort-service.directory</Directory>
+            <Include>
+                <And>
+                    <Category>11-05-snort-service</Category>
+                </And>
+            </Include>
+        </Menu>
+        
+        <Menu>
+            <Name>BEEF XSS Framework</Name>
+            <Directory>BT-BeEF.directory</Directory>
+            <Include>
+                <And>
+                    <Category>BT-BeEF</Category>
+                </And>
+            </Include>
+        </Menu>
+    </Menu>
+</Menu>
+</Menu>
