@@ -1,5 +1,7 @@
 kali-menu (0.1) unstable; urgency=low
 
   * Initial Release.
+  * Trigger /usr/share/applications in postinst to force a regeneration
+    of the GNOME menu.
 
  -- Raphaël Hertzog <hertzog@debian.org>  Mon, 23 Apr 2012 14:17:27 +0000

@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e 
+
+# Trigger /usr/share/applications to force a regeneration of the menus
+dpkg-trigger /usr/share/applications
+
+#DEBHELPER#
+
