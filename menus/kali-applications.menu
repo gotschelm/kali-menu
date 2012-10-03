@@ -11,30 +11,22 @@
         <Merge type="menus"/>
         <Menuname>Information Gathering</Menuname>
         <Menuname>Vulnerability Assessment</Menuname>
-        <Menuname>Exploitation</Menuname>
-        <Menuname>Privilege Escalation</Menuname>
+        <Menuname>WebApp Assessment</Menuname>
+        <Menuname>Password Attacks</Menuname>
+        <Menuname>Wireless Assessment</Menuname>
+        <Menuname>Exploitation Tools</Menuname>
+        <Menuname>Sniffing and Spoofing</Menuname>
         <Menuname>Maintaining Access</Menuname>
-        <Menuname>Reverse Engineering</Menuname>
-        <Menuname>RFID Tools</Menuname>
-        <Menuname>Stress Testing Tools</Menuname>
+        <Menuname>Research and RE</Menuname>
+        <Menuname>Hardware Hacking</Menuname>
         <Menuname>Forensics</Menuname>
-        <Menuname>Reporting Tools</Menuname>
-        <Menuname>Services</Menuname>
-        <Menuname>Miscellaneous</Menuname>
+        <Menuname>Reporting</Menuname>
     </Layout>
     
     <Directory>Kali.directory</Directory>
     
     <Menu>
         <Name>Information Gathering</Name>
-        
-        <Layout>
-            <Merge type="menus"/>
-            <Menuname>Network Analysis</Menuname>
-            <Menuname>Web Application Analysis</Menuname>
-            <Menuname>Database Analysis</Menuname>
-            <Menuname>Wireless Analysis</Menuname>
-        </Layout>
         
         <Directory>01-info-gathering.directory</Directory>
         

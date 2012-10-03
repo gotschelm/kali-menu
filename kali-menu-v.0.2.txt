@@ -1,0 +1,140 @@
+00-kali.directory
+	01-info-gathering.directory
+			01-05-network-traffic-analysis.directory
+			01-02-identify-live-hosts.directory
+			01-01-dns-analysis.directory
+			01-08-route-analysis.directory
+			01-06-os-fingerprinting.directory
+			01-09-service-fingerprinting.directory
+			01-03-ids-ips-identification.directory
+			01-04-network-scanners.directory
+			01-11-smtp-analysis.directory
+			01-10-smb-analysis.directory
+			01-12-snmp-analysis.directory
+			01-13-ssl-analysis.directory
+			01-15-voip-analysis.directory
+			01-16-vpn-analysis.directory
+			01-14-telephony-analysis.directory
+			01-07-osint-analysis.directory
+
+	02-vulnerability-analysis.directory
+		02-01-vulnerability-scanners.directory
+			02-01-01-nessus.directory
+			02-01-02-saint.directory
+			02-01-03-nexpose.directory
+			02-01-04-openvas.directory
+		02-02-network-assessment.directory
+			02-02-01-cisco-tools.directory
+			02-02-02-network-fuzzers.directory
+			02-02-03-voip-fuzzers.directory
+			02-02-04-open-source-assessment.directory
+		02-03-database-assessment.directory
+			02-03-01-mysql-assessment.directory
+			02-03-02-mssql-assessment.directory
+			02-03-03-oracle-assessment.directory
+
+	03-web-applications.directory
+		03-01-web-application-analysis.directory
+			03-01-02-ids-ips-identification.directory
+			03-01-04-web-crawlers.directory
+			03-01-01-cms-identification.directory
+			03-01-03-open-source-analysis.directory
+		03-03-database-analysis.directory
+			03-03-02-mysql-analysis.directory
+			03-03-01-mssql-analysis.directory
+			03-03-03-oracle-analysis.directory
+		03-04-web-application-assessment.directory
+			03-04-01-cms-vulnerability-identification.directory
+			03-04-05-web-vulnerability-scanners.directory
+			03-04-03-web-application-proxies.directory
+			03-04-02-web-application-fuzzers.directory
+			03-04-04-web-open-source-assessment.directory
+		03-05-web-exploitation-tools.directory
+			03-05-04-database-exploitation-tools.directory
+			03-05-02-mysql-exploitation-tools.directory
+			03-05-01-mssql-exploitation-tools.directory
+			03-05-03-oracle-exploitation-tools.directory
+
+	04-password-attacks.directory
+			04-01-online-attacks.directory
+			04-02-offline-attacks.directory
+			04-03-gpu-tools.directory
+
+	05-wireless-attacks.directory
+		05-01-wireless.analysis.directory
+			05-01-02-wlan-analysis.directory
+			05-01-01-bluetooth-analysis.directory
+		05-02-wireless-exploitation-tools.directory
+			05-02-02-wlan-exploitation.directory
+			05-02-01-bluetooth-exploitation.directory
+		05-03-rfid-tools.directory
+			05-03-01-rfid-pcsc.directory
+			05-03-02-rfid-acg.directory
+			05-03-03-rfid-frosch.directory		
+
+	06-exploitation-tools.directory
+		06-01-network-exploitation-tools.directory
+			06-01-01-cisco-attacks.directory
+			06-01-03-metasploit-framework.directory
+			06-01-04-sap-exploitation.directory
+			06-01-02-fast-track.directory
+		06-02-social-engineering-tools.directory
+			06-02-01-beef-xss-framework.directory
+			06-02-03-social-engineering-toolkit.directory
+			06-02-02-honeypots.directory
+		06-03-open-source-exploitation.directory
+			06-03-01-exploit-db.directory
+			06-03-02-online-archives.directory
+
+	07-sniffing-spoofing.directory
+		07-01-privilege-escalation-media.directory
+			07-01-01-voice-and-surveillance.directory
+			07-01-02-voip-tools.directory
+		07-02-protocol-analysis.directory
+			07-02-01-network-sniffers.directory
+			07-02-02-voip-sniffers.directory
+			07-02-03-web-sniffers.directory
+		07-03-spoofing-attacks.directory
+			07-03-01-network-spoofing.directory
+			07-03-02-voip-spoofing.directory
+
+	08-maintaining-access.directory
+		08-01-os-backdoors.directory
+		08-03-web-backdoors.directory
+		08-02-tunneling.directory
+
+	09-research-tools.directory
+		09-01-reverse-engineering.directory
+		09-02-stress-testing.directory
+			09-02-01-network-stress-testing.directory
+			09-02-03-wlan-stress-testing.directory
+			09-02-04-voip-stress-testing.directory
+			09-02-04-web-stress-testing.directory
+
+	10-hardware-hacking.directory
+		10-01-rfid-tools-hw.directory
+			10-01-01-rfid-pcsc-hw.directory
+			10-01-02-rfid-acg-hw.directory
+			10-01-03-rfid-frosch-hw.directory
+		10-02-android-tools.directory
+		10-03-arduino-tools.directory
+		10-04-teensy-tools.directory
+
+	11-forensics.directory
+		11-09-network-forensics.directory
+		11-03-digital-forensics.directory
+		11-02-digital-anti-forensics.directory
+		11-07-forensic-imaging-tools.directory
+		11-06-forensic-hashing-tools.directory
+		11-08-forensic-suites.directory
+		11-04-forensic-analysis-tools.directory
+		11-12-ram-forensics-tools.directory
+		11-05-forensic-carving-tools.directory
+		11-11-pdf-forensics-tools.directory
+		11-10-password-forensics-tools.directory
+		11-01-anti-virus-forensics-tools.directory
+
+	12-reporting.directory
+		12-01-evidence-management.directory
+		12-02-media-capture.directory
+
