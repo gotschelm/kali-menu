@@ -138,3 +138,14 @@
 		12-01-evidence-management.directory
 		12-02-media-capture.directory
 
+	13-services.directory
+		13-02-httpd.directory
+		13-03-mysqld.directory
+		13-06-sshd.directory
+		13-01-gpsd.directory
+		13-04-pcscd.directory
+		13-07-radius.directory
+		13-05-snort-service.directory
+		13-08-beef-service.directory
+		13-09-metasploit-service.directory
+
