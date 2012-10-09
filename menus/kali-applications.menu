@@ -39,7 +39,7 @@
                     <Category>01-05-network-traffic-analysis</Category>
                 </And>
             </Include>
-	</Menu>
+	    </Menu>
 
         <Menu>
             <Name>Identify Live Hosts</Name>
@@ -49,7 +49,7 @@
                     <Category>01-02-identify-live-hosts</Category>
                 </And>
             </Include>
-	</Menu>
+	    </Menu>
 
         <Menu>
             <Name>DNS Analysis</Name>
@@ -59,7 +59,7 @@
                     <Category>01-01-dns-analysis</Category>
                 </And>
             </Include>
-	</Menu>
+	    </Menu>
 
         <Menu>
             <Name>Route Analysis</Name>
@@ -121,7 +121,7 @@
             </Include>
         </Menu>
 
-	<Menu> 
+	    <Menu> 
            <Name>SMB Analysis</Name>
             <Directory>01-10-smb-analysis.directory</Directory>
             <Include>
@@ -207,15 +207,15 @@
                 </And>
             </Include>
 	    
-	    <Menu>
-	        <Name>Nessus</Name>
-		 <Directory>02-01-01-nessus.directory</Directory>
-		 <Include>
-		     <And>
-			<Category>02-01-01-nessus</Category>
-		     </And>
-		 </Include>
-	    </Menu>
+	        <Menu>
+	            <Name>Nessus</Name>
+		         <Directory>02-01-01-nessus.directory</Directory>
+		         <Include>
+		             <And>
+			            <Category>02-01-01-nessus</Category>
+		             </And>
+		         </Include>
+	        </Menu>
 
             <Menu>
                 <Name>SAINT</Name>
