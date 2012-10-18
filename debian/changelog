@@ -1,3 +1,9 @@
+kali-menu (0.2) UNRELEASED; urgency=low
+
+  * Restructured Menus
+
+ -- dookie <dookie@kali.localdomain>  Thu, 18 Oct 2012 08:19:46 -0600
+
 kali-menu (0.1) kali; urgency=low
 
   * Initial Release.
