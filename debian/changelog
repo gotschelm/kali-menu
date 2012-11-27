@@ -1,3 +1,9 @@
+kali-menu (0.3) kali; urgency=low
+
+  * Fixed typo in kali-applications.menu
+
+ -- dookie <dookie@kali.org>  Mon, 26 Nov 2012 17:28:44 -0700
+
 kali-menu (0.2) kali; urgency=low
 
   * Restructured Menus

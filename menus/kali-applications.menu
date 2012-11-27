@@ -146,7 +146,7 @@
             <Directory>01-13-ssl-analysis.directory</Directory>
             <Include>
                 <And>
-                    <Category>01-13-ssl-analysis.directory</Category>
+                    <Category>01-13-ssl-analysis</Category>
                 </And>
             </Include>
         </Menu>
