@@ -1,3 +1,9 @@
+kali-menu (0.7) kali; urgency=low
+
+  * Fixed typos
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 01 Dec 2012 07:00:40 -0500
+
 kali-menu (0.6) kali; urgency=low
 
   * Adding RE menu entries
