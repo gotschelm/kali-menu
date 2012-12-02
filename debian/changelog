@@ -1,3 +1,9 @@
+kali-menu (0.8) kali; urgency=low
+
+  * Fixing up menu
+
+ -- Mati Aharoni <muts@kali.org>  Sun, 02 Dec 2012 07:11:21 -0500
+
 kali-menu (0.7) kali; urgency=low
 
   * Fixed typos

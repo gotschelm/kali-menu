@@ -172,6 +172,14 @@
 		</Menu>
 
 		<Menu>
+			<Name>Fuzzing Tools</Name>
+			<Directory>02-02-fuzzers.directory</Directory>
+			<Include><And>
+				<Category>02-02-fuzzers</Category>
+			</And></Include>
+		</Menu>
+
+		<Menu>
 			<Name>Misc Scanners</Name>
 			<Directory>02-03-misc-scanners.directory</Directory>
 			<Include><And>
@@ -339,29 +347,22 @@
 			<Include><And>
 				<Category>05-01-wireless-tools</Category>
 			</And></Include>
-			<Menu>
-				<Name>Aircrack Suite</Name>
-				<Directory>05-01-01-aircrack-ng.directory</Directory>
-				<Include><And>
-                        <Category>05-01-01-aircrack-ng</Category>
-				</And></Include>
-			</Menu>
 		</Menu>
 		
 		<Menu>
-       		<Name>Bluetooth Tools</Name>
-       		<Directory>05-02-bluetooth-tools.directory</Directory>
-       		<Include><And>
-       	       	<Category>05-02-bluetooth-tools</Category>
-       		</And></Include>
+	       		<Name>Bluetooth Tools</Name>
+       			<Directory>05-02-bluetooth-tools.directory</Directory>
+       			<Include><And>
+       			       	<Category>05-02-bluetooth-tools</Category>
+       			</And></Include>
        	</Menu>
        	
        	<Menu>
-       		<Name>RFID NFC Tools</Name>
-       		<Directory>05-03-rfid-nfc-tools.directory</Directory>
-       		<Include><And>
-       	       	<Category>05-03-rfid-nfc-tools</Category>
-       		</And></Include>
+       			<Name>RFID NFC Tools</Name>
+       			<Directory>05-03-rfid-nfc-tools.directory</Directory>
+       			<Include><And>
+       	       			<Category>05-03-rfid-nfc-tools</Category>
+       			</And></Include>
 
        		<Menu>
        			<Name>NFC Tools</Name>
@@ -372,59 +373,58 @@
        		</Menu>       		
  
            	<Menu>
-            	<Name>RFIDiot PCSC</Name>
-            	<Directory>05-03-02-rfidiot-pcsc.directory</Directory>
-            	<Include><And>
-            		<Category>05-03-02-rfidiot-pcsc</Category>
-            	</And></Include>
+            		<Name>RFIDiot PCSC</Name>
+        	    	<Directory>05-03-02-rfidiot-pcsc.directory</Directory>
+            		<Include><And>
+            			<Category>05-03-02-rfidiot-pcsc</Category>
+            		</And></Include>
            	</Menu>
 
            	<Menu>
-            	<Name>RFIDiot ACG</Name>
+            		<Name>RFIDiot ACG</Name>
            		<Directory>05-03-03-rfidiot-acg.directory</Directory>
-            	<Include><And>
-            		<Category>05-03-03-rfidiot-acg</Category>
-            	</And></Include>
+            		<Include><And>
+            			<Category>05-03-03-rfidiot-acg</Category>
+            		</And></Include>
            	</Menu>
 
-            <Menu>
-				<Name>RFIDiot FROSCH</Name>
-            	<Directory>05-03-04-rfidiot-frosch.directory</Directory>
-            	<Include><And>
-            		<Category>05-03-04-rfidiot-frosch</Category>
-            	</And></Include>
-			</Menu>
+		<Menu>
+			<Name>RFIDiot FROSCH</Name>
+            		<Directory>05-03-04-rfidiot-frosch.directory</Directory>
+            		<Include><And>
+            			<Category>05-03-04-rfidiot-frosch</Category>
+            		</And></Include>
 		</Menu>
 	</Menu>
+</Menu>
 
+
+<Menu>
+	<Name>Exploitation Tools</Name>
+	<Directory>06-exploitation-tools.directory</Directory>
+	<Menu>
+		<Name>Cisco Attacks</Name>
+		<Directory>06-01-cisco-attacks.directory</Directory>
+		<Include><And>
+			<Category>06-01-cisco-attacks</Category>
+		</And></Include>
+	</Menu>
 
 	<Menu>
-		<Name>Exploitation Tools</Name>
-		<Directory>06-exploitation-tools.directory</Directory>
+		<Name>Metasploit Framework</Name>
+		<Directory>06-02-metasploit-framework.directory</Directory>
+		<Include><And>
+			<Category>06-02-metasploit-framework</Category>
+		</And></Include>
+	</Menu>
 		
-		<Menu>
-			<Name>Cisco Attacks</Name>
-			<Directory>06-01-cisco-attacks.directory</Directory>
-			<Include><And>
-				<Category>06-01-cisco-attacks</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Metasploit Framework</Name>
-			<Directory>06-02-metasploit-framework.directory</Directory>
-			<Include><And>
-				<Category>06-02-metasploit-framework</Category>
-			</And></Include>
-		</Menu>
-		
-		<Menu>
-			<Name>SAP Exploitation</Name>
-			<Directory>06-03-sap-exploitation.directory</Directory>
-			<Include><And>
-				<Category>06-03-sap-exploitation</Category>
-			</And></Include>
-		</Menu>
+	<Menu>
+		<Name>SAP Exploitation</Name>
+		<Directory>06-03-sap-exploitation.directory</Directory>
+		<Include><And>
+			<Category>06-03-sap-exploitation</Category>
+		</And></Include>
+	</Menu>
 
 		<Menu>
 			<Name>Fast-Track</Name>
