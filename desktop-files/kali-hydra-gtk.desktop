@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=hydra
+Name=hydra-gtk
 Encoding=UTF-8
 Exec=sh -c "xhydra"
 Icon=kali-menu.png
