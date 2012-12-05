@@ -641,7 +641,7 @@
 
 	<Menu>
 		<Name>Forensic Tools</Name>
-		<Directory>11-forensics.directory</Directory>
+		<Directory>12-forensics.directory</Directory>
 		<Menu>
 			<Name>Network Forensics</Name>
 			<Directory>12-09-network-forensics.directory</Directory>
