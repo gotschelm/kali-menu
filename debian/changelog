@@ -1,3 +1,9 @@
+kali-menu (0.82) kali; urgency=low
+
+  * Spanish directory file fixes
+
+ -- Mati Aharoni <muts@kali.org>  Tue, 04 Dec 2012 19:31:45 -0500
+
 kali-menu (0.81) kali; urgency=low
 
   * Spanish translation by fuurio
