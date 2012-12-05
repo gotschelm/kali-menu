@@ -1,3 +1,9 @@
+kali-menu (0.96) kali; urgency=low
+
+  * Added various desktop files
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 05 Dec 2012 12:08:50 -0700
+
 kali-menu (0.95) kali; urgency=low
 
   * Added desktop files for remaining Debian tools
