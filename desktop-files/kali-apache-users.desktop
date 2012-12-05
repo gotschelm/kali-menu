@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=apache-users
 Encoding=UTF-8
-Exec=sh -c "apache2.1.pl;sudo -s"
+Exec=sh -c "apache-users;sudo -s"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
