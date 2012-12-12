@@ -2,8 +2,11 @@
 
 set -e 
 
-# Trigger /usr/share/applications to force a regeneration of the menus
-dpkg-trigger /usr/share/applications
+if [ "$1" = "configure" ] && dpkg --compare-versions "$2" lt "0.83"; then
+    # Initial installation or first upgrade, the hook is not yet in place,
+    # we call it ourselves and it will wait until dpkg/apt is over
+    /usr/share/kali-menu/update-kali-menu </dev/null &
+fi
 
 #DEBHELPER#
 
