@@ -5,7 +5,9 @@ Providing Kali specific desktop files
 You can add as many desktop files as you want in the desktop-files
 sub-directory. Each desktop file must have an entry "X-Kali-Package=foo"
 where foo is the name of the binary package that is associated to this
-desktop file.
+desktop file. Note that you can associate multiple binary packages to
+the same desktop file if needed, just put a space-separated list of
+packages in the X-Kali-Package field.
 
 Those desktop files will be installed in /usr/share/applications
 by update-kali-menu as soon as the corresponding package is installed. And
