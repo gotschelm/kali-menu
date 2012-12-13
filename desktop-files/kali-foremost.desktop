@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=foremost
+Encoding=UTF-8
+Exec=sh -c "foremost -h;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-03-digital-forensics;11-04-forensic-analysis-tools;11-05-forensic-carving-tools;
+X-Kali-Package=foremost

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=0.1.93
+Name=creepy
+GenericName[en_GB]= creepy
+Comment=geolocation information aggregator
+Exec=creepy
+Icon=creepy
+Categories=Network;Security;01-07-osint-analysis;06-02-social-engineering-tools;
+Terminal=false
+StartupNotify=true
+
+X-Kali-Package=creepy

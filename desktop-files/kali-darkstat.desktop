@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=darkstat
+Encoding=UTF-8
+Exec=sh -c "darkstat;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=07-02-01-network-sniffers;
+X-Kali-Package=darkstat

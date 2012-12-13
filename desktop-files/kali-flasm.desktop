@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=flasm
+Encoding=UTF-8
+Exec=sh -c "flasm;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-03-misc-tools.directory;
+X-Kali-Package=flasm
