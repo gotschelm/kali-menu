@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=flasm
+Name=sipsak
 Encoding=UTF-8
-Exec=sh -c "flasm;sudo -s"
+Exec=sh -c "sipsak -h;sudo -s"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=09-03-misc-tools;
-X-Kali-Package=flasm
+Categories=07-02-voip-tools;
+X-Kali-Package=sipcrack

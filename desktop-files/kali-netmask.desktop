@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=flasm
+Name=netmask
 Encoding=UTF-8
-Exec=sh -c "flasm;sudo -s"
+Exec=sh -c "netmask -h;sudo -s"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=09-03-misc-tools;
-X-Kali-Package=flasm
+Categories=01-08-route-analysis;
+X-Kali-Package=netmask
