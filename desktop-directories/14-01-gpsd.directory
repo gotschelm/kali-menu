@@ -3,3 +3,4 @@ Name=GPSd
 Name[fr]=GPSd
 Name[es]=GPSd
 Type=Directory
+Icon=system-services-trans.png

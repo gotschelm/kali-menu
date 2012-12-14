@@ -3,3 +3,4 @@ Name=Service Fingerprinting
 Name[fr]=Détection de Service
 Name[es]=Detección de Servicio
 Type=Directory
+Icon=info-gathering-trans.png

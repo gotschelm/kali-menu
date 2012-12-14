@@ -3,3 +3,4 @@ Name=SSH
 Name[fr]=SSH
 Name[es]=SSH
 Type=Directory
+Icon=system-services-trans.png

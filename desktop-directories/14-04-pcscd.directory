@@ -3,3 +3,4 @@ Name=PCSCD
 Name[fr]=PCSCD
 Name[es]=PCSCD
 Type=Directory
+Icon=system-services-trans.png

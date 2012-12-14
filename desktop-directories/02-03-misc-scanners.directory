@@ -3,3 +3,4 @@ Name=Misc Scanners
 Name[fr]=
 Name[es]=Otros Escáner
 Type=Directory
+Icon=vuln-assessment-trans.png

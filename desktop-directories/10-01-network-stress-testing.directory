@@ -3,3 +3,4 @@ Name=Network Stress Testing
 Name[fr]=Tests de Stress Réseau
 Name[es]=Pruebas de Stress para Redes
 Type=Directory
+Icon=stress-testing-trans.png

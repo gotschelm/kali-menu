@@ -3,3 +3,4 @@ Name=SMB Analysis
 Name[fr]=Analyse SMTP
 Name[es]=Análisis SMB
 Type=Directory
+Icon=info-gathering-trans.png

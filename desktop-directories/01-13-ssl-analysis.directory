@@ -3,3 +3,4 @@ Name=SSL Analysis
 Name[fr]=Analyse SSL
 Name[es]=Análisis SSL
 Type=Directory
+Icon=info-gathering-trans.png

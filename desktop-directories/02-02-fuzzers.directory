@@ -3,3 +3,4 @@ Name=Fuzzing Tools
 Name[fr]=Fuzzers
 Name[es]=Herramientas para Fuzzing
 Type=Directory
+Icon=vuln-assessment-trans.png

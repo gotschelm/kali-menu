@@ -3,3 +3,4 @@ Name=Disassembly
 Name[fr]=
 Name[es]=Desensamblar
 Type=Directory
+Icon=reverse-engineering-trans.png

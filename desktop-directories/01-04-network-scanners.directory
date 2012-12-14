@@ -3,3 +3,4 @@ Name=Network Scanners
 Name[fr]=Numérisation Réseau
 Name[es]=Escáner de Redes
 Type=Directory
+Icon=info-gathering-trans.png

@@ -3,3 +3,4 @@ Name=RAM Forensics Tools
 Name[fr]=Outils d'Investigation RAM
 Name[es]=Herramientas Forenses para RAM
 Type=Directory
+Icon=forensics-trans.png

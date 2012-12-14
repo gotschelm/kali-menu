@@ -3,3 +3,4 @@ Name=Database Assessment
 Name[fr]=L'évaluation Database
 Name[es]=Evaluación de Bases de Datos
 Type=Directory
+Icon=vuln-assessment-trans.png

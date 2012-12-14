@@ -3,3 +3,4 @@ Name=Nessus
 Name[fr]=Nessus
 Name[es]=Nessus
 Type=Directory
+Icon=vuln-assessment-trans.png

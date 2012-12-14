@@ -3,3 +3,4 @@ Name=Metasploit
 Name[fr]=Metasploit
 Name[es]=Metasploit
 Type=Directory
+Icon=system-services-trans.png

@@ -3,3 +3,4 @@ Name=VoIP Analysis
 Name[fr]=Analyse VoIP
 Name[es]=Análisis de VoIP
 Type=Directory
+Icon=info-gathering-trans.png

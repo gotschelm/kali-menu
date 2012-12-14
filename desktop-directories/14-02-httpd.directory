@@ -3,3 +3,4 @@ Name=HTTP
 Name[fr]=HTTP
 Name[es]=HTTP
 Type=Directory
+Icon=system-services-trans.png

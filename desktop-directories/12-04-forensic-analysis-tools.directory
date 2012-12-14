@@ -3,3 +3,4 @@ Name=Forensic Analysis Tools
 Name[fr]=Outils d'Investigation Analyse
 Name[es]=Herramientas de Análisis Forense
 Type=Directory
+Icon=forensics-trans.png

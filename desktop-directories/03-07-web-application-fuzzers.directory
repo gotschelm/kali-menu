@@ -3,3 +3,4 @@ Name=Web Application Fuzzers
 Name[fr]=Fuzzers des WebApp
 Name[es]=Aplicativos para Fuzzing
 Type=Directory
+Icon=web-application-trans.png

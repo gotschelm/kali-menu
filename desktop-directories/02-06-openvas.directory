@@ -3,3 +3,4 @@ Name=OpenVAS
 Name[fr]=OpenVAS
 Name[es]=OpenVAS
 Type=Directory
+Icon=vuln-assessment-trans.png
