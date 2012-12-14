@@ -1,3 +1,9 @@
+kali-menu (0.86) kali; urgency=low
+
+  * More default desktop files
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 14 Dec 2012 10:18:55 -0500
+
 kali-menu (0.85) kali; urgency=low
 
   * Added menu icons
