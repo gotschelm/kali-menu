@@ -3,3 +3,4 @@ Name=System Services
 Name[fr]=Services
 Name[es]=Servicios del Sistema
 Type=Directory
+Icon=system-services-trans.png

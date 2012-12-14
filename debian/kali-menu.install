@@ -3,3 +3,5 @@ desktop-directories/*.directory usr/share/desktop-directories/
 desktop-files/*.desktop usr/share/kali-menu/applications/
 apt.conf.d/99kali-menu etc/apt/apt.conf.d/
 update-kali-menu usr/share/kali-menu/
+menu-icons/* usr/share/icons/hicolor/
+
