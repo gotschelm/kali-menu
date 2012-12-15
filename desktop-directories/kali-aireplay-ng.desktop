@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=aireplay-ng
+Encoding=UTF-8
+Exec=sh -c "aireplay-ng --help;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-01-wireless-tools;
+X-Kali-Package=aircrack-ng

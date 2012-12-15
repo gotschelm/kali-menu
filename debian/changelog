@@ -1,3 +1,9 @@
+kali-menu (0.89) kali; urgency=low
+
+  * Added more desktop files
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 14 Dec 2012 20:24:18 -0500
+
 kali-menu (0.88) kali; urgency=low
 
   * Added icons to submenus
