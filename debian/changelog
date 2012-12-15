@@ -1,3 +1,9 @@
+kali-menu (0.90) kali; urgency=low
+
+  * Added desktop files
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 15 Dec 2012 08:16:11 -0500
+
 kali-menu (0.89) kali; urgency=low
 
   * Added more desktop files
