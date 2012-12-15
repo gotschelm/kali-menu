@@ -1,9 +1,10 @@
 [Desktop Entry]
-Name=wash
+Name=wfuzz
 Encoding=UTF-8
-Exec=sh -c "wash -h;sudo -s"
+Exec=sh -c "wfuzz;sudo -s"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-01-02-wlan-analysis;
+Categories=03-07-web-application-fuzzers;
+X-Kali-Package=wfuzz

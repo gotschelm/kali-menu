@@ -1,9 +1,10 @@
 [Desktop Entry]
-Name=wash
+Name=jad
 Encoding=UTF-8
-Exec=sh -c "wash -h;sudo -s"
+Exec=sh -c "jad;sudo -s"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-01-02-wlan-analysis;
+Categories=09-02-disassembly;
+X-Kali-Package=jad

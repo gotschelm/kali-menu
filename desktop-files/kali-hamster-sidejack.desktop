@@ -1,9 +1,10 @@
 [Desktop Entry]
-Name=wash
+Name=hamster
 Encoding=UTF-8
-Exec=sh -c "wash -h;sudo -s"
+Exec=sh -c "hamster;sudo -s"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-01-02-wlan-analysis;
+Categories=07-05-web-sniffers;
+X-Kali-Package=hamster

@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-02-02-wlan-exploitation;
+Categories=10-02-wlan-stress-testing;
 X-Kali-Package=reaver

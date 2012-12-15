@@ -1,9 +1,10 @@
 [Desktop Entry]
-Name=wash
+Name=mfoc
 Encoding=UTF-8
-Exec=sh -c "wash -h;sudo -s"
+Exec=sh -c "mfoc -h;sudo -s"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-01-02-wlan-analysis;
+Categories=05-03-01-nfc-tools;
+X-Kali-Package=mfoc
