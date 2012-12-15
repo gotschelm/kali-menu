@@ -1,3 +1,9 @@
+kali-menu (0.93) kali; urgency=low
+
+  * Fixed type in file
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 15 Dec 2012 15:34:05 -0500
+
 kali-menu (0.92) kali; urgency=low
 
   * Added more desktop files
