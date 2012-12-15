@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=03-01-04-web-crawlers;12-02-media-capture;
+Categories=03-04-web-crawlers;13-02-media-capture;
 X-Kali-Package=cutycapt
