@@ -8,6 +8,8 @@
 	<Name>Kali</Name>
 	<Layout>
 		<Merge type="menus"/>
+		 <Menuname>Top 10 Security Tools</Menuname>
+                 <Separator> </Separator>
 		<Menuname>Information Gathering</Menuname>
 		<Menuname>Vulnerability Analysis</Menuname>
 		<Menuname>Web Applications</Menuname>
@@ -25,6 +27,15 @@
 	</Layout>
 
 	<Directory>Kali.directory</Directory>
+
+ 	<Menu>
+ 		<Name>Top 10 Security Tools</Name>
+		<Directory>top10.directory</Directory>
+		<Include><And>
+			<Category>top10</Category>
+		</And></Include>
+	</Menu>
+
 	<Menu>
 		<Name>Information Gathering</Name>
 		<Directory>01-info-gathering.directory</Directory>

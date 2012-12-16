@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=04-02-offline-attacks;11-10-password-forensics-tools;
+Categories=04-02-offline-attacks;12-10-password-forensics-tools;
 X-Kali-Package=chntpw
