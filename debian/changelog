@@ -1,3 +1,9 @@
+kali-menu (0.94) kali; urgency=low
+
+  * Updated top10 in menu
+
+ -- Mati Aharoni <muts@kali.org>  Sun, 16 Dec 2012 09:02:18 -0500
+
 kali-menu (0.93) kali; urgency=low
 
   * Fixed type in file
