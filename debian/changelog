@@ -1,8 +1,13 @@
-kali-menu (0.96) kali; urgency=low
+kali-menu (0.97) kali; urgency=low
 
   * Added various desktop files
 
- -- Devon Kearns <dookie@kali.org>  Wed, 05 Dec 2012 12:08:50 -0700
+ -- Devon Kearns <dookie@kali.org>  Tue, 18 Dec 2012 16:35:47 -0600
+
+kali-menu (0.96) kali; urgency=low
+  * Added desktop files
+
+ -- balding_parrot <balding_parrot@kali.org>  Tue, 18 Dec 2012 23:05:41 +0000
 
 kali-menu (0.95) kali; urgency=low
 
