@@ -1,3 +1,9 @@
+kali-menu (0.96) kali; urgency=low
+
+  * Added desktop files
+
+ -- balding_parrot <balding_parrot@kali.org>  Tue, 18 Dec 2012 23:05:41 +0000
+
 kali-menu (0.95) kali; urgency=low
 
   * Added desktop files for remaining Debian tools
