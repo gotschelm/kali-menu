@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sshd_stop
+Encoding=UTF-8
+Exec=sh -c "service ssh stop;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-06-sshd;
+X-Kali-Package=openssh-server

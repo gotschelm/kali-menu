@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=apache2_restart
+Encoding=UTF-8
+Exec=sh -c "service apache2 restart;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-02-httpd;
+X-Kali-Package=apache2

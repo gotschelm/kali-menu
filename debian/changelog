@@ -1,3 +1,9 @@
+kali-menu (0.971) kali; urgency=low
+
+  * Added ssh and apache service files
+
+ -- Mati Aharoni <muts@kali.org>  Tue, 18 Dec 2012 19:33:15 -0500
+
 kali-menu (0.97) kali; urgency=low
 
   * Added various desktop files
