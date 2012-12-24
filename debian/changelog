@@ -1,3 +1,9 @@
+kali-menu (0.973) kali; urgency=low
+
+  * Update kali and menu images
+
+ -- Mati Aharoni <muts@kali.org>  Mon, 24 Dec 2012 09:08:17 -0500
+
 kali-menu (0.972) kali; urgency=low
 
   * Added additional desktop files
