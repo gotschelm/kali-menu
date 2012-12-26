@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=termineter
+Encoding=UTF-8
+Exec=sh -c "termineter -h;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-exploitation-tools;
+X-Kali-Package=termineter
