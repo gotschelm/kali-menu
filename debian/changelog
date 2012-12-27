@@ -1,8 +1,8 @@
-kali-menu (0.975) UNRELEASED; urgency=low
+kali-menu (0.976) kali; urgency=low
 
   * Updated Kali menu png
 
- -- Mati Aharoni <muts@devel.localdomain>  Thu, 27 Dec 2012 11:51:12 -0500
+ -- Mati Aharoni <muts@kali.org>  Thu, 27 Dec 2012 11:51:12 -0500
 
 kali-menu (0.974) kali; urgency=low
 
