@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=07-02-01-network-sniffers;
+Categories=07-03-network-sniffers;
 X-Kali-Package=darkstat
