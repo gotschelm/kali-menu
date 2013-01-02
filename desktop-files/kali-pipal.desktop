@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=13-reporting;
+Categories=13-01-evidence-management;
 X-Kali-Package=pipal
