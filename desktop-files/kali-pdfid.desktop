@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=pdfid
+Encoding=UTF-8
+Exec=sh -c "pdfid -h;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=12-11-pdf-forensics-tools;
+X-Kali-Package=pdfid
