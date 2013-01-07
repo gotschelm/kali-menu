@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=pdfbook
+Encoding=UTF-8
+Exec=sh -c "pdfbook -h;sudo -s"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=12-04-forensic-analysis-tools;
+X-Kali-Package=pdfbook
