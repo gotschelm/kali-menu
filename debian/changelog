@@ -1,3 +1,9 @@
+kali-menu (0.979) kali; urgency=low
+
+  * Added additional desktop files
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 07 Jan 2013 06:13:44 -0700
+
 kali-menu (0.978) kali; urgency=low
 
   * Added additional desktop files
