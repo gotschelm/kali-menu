@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=pdfid
+Name=dictstat
 Encoding=UTF-8
-Exec=sh -c "pdfid -h;sudo -s"
+Exec=sh -c "dictstat -h;sudo -s"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=12-11-pdf-forensics-tools;
-X-Kali-Package=pdfid
+Categories=04-02-offline-attacks;
+X-Kali-Package=pack
