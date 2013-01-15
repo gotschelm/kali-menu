@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ophcrack-cli
 Encoding=UTF-8
-Exec=sh -c "ophcrack-cli;sudo -s"
+Exec=sh -c "ophcrack-cli;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

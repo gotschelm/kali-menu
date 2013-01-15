@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=snmpcheck
 Encoding=UTF-8
-Exec=sh -c "snmpcheck -h;sudo -s"
+Exec=sh -c "snmpcheck -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

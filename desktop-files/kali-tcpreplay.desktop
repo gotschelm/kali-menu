@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=tcpreplay
 Encoding=UTF-8
-Exec=sh -c "tcpreplay -h;sudo -s"
+Exec=sh -c "tcpreplay -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

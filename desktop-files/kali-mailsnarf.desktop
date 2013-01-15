@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=mailsnarf
 Encoding=UTF-8
-Exec=sh -c "mailsnarf -h;sudo -s"
+Exec=sh -c "mailsnarf -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=bbqsql
 Encoding=UTF-8
-Exec=sh -c "bbqsql;sudo -s"
+Exec=sh -c "bbqsql;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

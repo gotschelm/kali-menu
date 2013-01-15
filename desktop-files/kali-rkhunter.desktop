@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=rkhunter
 Encoding=UTF-8
-Exec=sh -c "rkhunter -h;sudo -s"
+Exec=sh -c "rkhunter -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

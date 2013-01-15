@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=iaxflood
 Encoding=UTF-8
-Exec=sh -c "iaxflood;sudo -s"
+Exec=sh -c "iaxflood;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

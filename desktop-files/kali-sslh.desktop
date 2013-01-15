@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sslh
 Encoding=UTF-8
-Exec=sh -c "sslh -h;sudo -s"
+Exec=sh -c "sslh -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -2,5 +2,7 @@
 Name=Cisco Tools
 Name[fr]=Outils Cisco
 Name[es]=Herramientas Cisco
+Name[hr]=Cisco Alati
+Name[de]=Cisco-Werkzeuge
 Type=Directory
 Icon=vuln-assessment-trans.png

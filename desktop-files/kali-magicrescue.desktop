@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=magicrescue
 Encoding=UTF-8
-Exec=sh -c "magicrescue;sudo -s"
+Exec=sh -c "magicrescue;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

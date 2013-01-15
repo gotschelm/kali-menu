@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ncrack
 Encoding=UTF-8
-Exec=sh -c "ncrack -h;sudo -s"
+Exec=sh -c "ncrack -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

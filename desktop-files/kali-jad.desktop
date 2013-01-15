@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=jad
 Encoding=UTF-8
-Exec=sh -c "jad;sudo -s"
+Exec=sh -c "jad;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

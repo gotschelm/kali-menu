@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=wafw00f
 Encoding=UTF-8
-Exec=sh -c "wafw00f -h;sudo -s"
+Exec=sh -c "wafw00f -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

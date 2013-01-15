@@ -2,5 +2,7 @@
 Name=Web Sniffers
 Name[fr]=Renifleurs Web
 Name[es]=Husmeando la Web
+Name[hr]=Web Sniferi
+Name[de]=Web-Sniffer
 Type=Directory
 Icon=sniffing-spoofing-trans.png

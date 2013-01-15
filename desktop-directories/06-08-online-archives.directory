@@ -2,5 +2,7 @@
 Name=Online Archives
 Name[fr]=Online Archives
 Name[es]=Archivos en línea
+Name[hr]=Online Arhiva
+Name[de]=Online-Archive
 Type=Directory
 Icon=exploitation-tools-trans.png

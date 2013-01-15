@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dnsmap
 Encoding=UTF-8
-Exec=sh -c "dnsmap;sudo -s"
+Exec=sh -c "dnsmap;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

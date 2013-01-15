@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=apache2_stop
 Encoding=UTF-8
-Exec=sh -c "service apache2 stop;sudo -s"
+Exec=sh -c "service apache2 stop;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

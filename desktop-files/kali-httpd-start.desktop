@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=apache2_start
 Encoding=UTF-8
-Exec=sh -c "service apache2 start;sudo -s"
+Exec=sh -c "service apache2 start;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -2,5 +2,7 @@
 Name=Forensic Carving Tools
 Name[fr]=Criminalistique Outils à Ciseler
 Name[es]=Herramientas Forenses de Recuperación
+Name[hr]=Forenzicki Carving Alati
+Name[de]=Forensik: Extraktions-Tools
 Type=Directory
 Icon=forensics-trans.png

@@ -2,5 +2,7 @@
 Name=PCSCD
 Name[fr]=PCSCD
 Name[es]=PCSCD
+Name[hr]=PCSCD
+Name[de]=PCSCD
 Type=Directory
 Icon=system-services-trans.png

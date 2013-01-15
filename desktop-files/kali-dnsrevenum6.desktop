@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dnsrevenum6
 Encoding=UTF-8
-Exec=sh -c "dnsrevenum6;sudo -s"
+Exec=sh -c "dnsrevenum6;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

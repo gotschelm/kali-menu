@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=plecost
 Encoding=UTF-8
-Exec=sh -c "plecost -h;sudo -s"
+Exec=sh -c "plecost -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

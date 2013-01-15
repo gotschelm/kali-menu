@@ -2,5 +2,7 @@
 Name=OSINT Analysis
 Name[fr]=Analyse OSINT
 Name[es]=Análisis OSINT
+Name[hr]=Analiza OSINT
+Name[de]=OpenSource Intelligence (OSINT) Analyse
 Type=Directory
 Icon=info-gathering-trans.png

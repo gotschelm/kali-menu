@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dnstracer
 Encoding=UTF-8
-Exec=sh -c "dnstracer;sudo -s"
+Exec=sh -c "dnstracer;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

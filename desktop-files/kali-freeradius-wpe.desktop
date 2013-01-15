@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=freeradius-wpe
 Encoding=UTF-8
-Exec=sh -c "freeradius -h;sudo -s"
+Exec=sh -c "freeradius -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

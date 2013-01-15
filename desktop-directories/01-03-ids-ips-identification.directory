@@ -2,5 +2,7 @@
 Name=IDS/IPS Identification
 Name[fr]=Détection de IDS/IPS
 Name[es]=Identificación de IDS/IPS
+Name[hr]=Identifikacija IDS/IPS
+Name[de]=IDS- & IPS-Identifikation
 Type=Directory
 Icon=info-gathering-trans.png

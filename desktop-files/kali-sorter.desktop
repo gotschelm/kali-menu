@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sorter
 Encoding=UTF-8
-Exec=sh -c "sorter;sudo -s"
+Exec=sh -c "sorter;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

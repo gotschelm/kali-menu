@@ -2,5 +2,7 @@
 Name=Online Attacks
 Name[fr]=Les Attaques en Ligne
 Name[es]=Ataques con Conexión
+Name[hr]=Online Napadi
+Name[de]=Online-Angriffe
 Type=Directory
 Icon=password-attacks-trans.png

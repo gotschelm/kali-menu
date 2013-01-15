@@ -2,5 +2,7 @@
 Name=Reverse Engineering
 Name[fr]=L'ingénierie Inverse
 Name[es]=Ingeniería Reversa
+Name[hr]=Obrnuti Inzenjering
+Name[de]=Reverse Engineering
 Type=Directory
 Icon=reverse-engineering-trans.png

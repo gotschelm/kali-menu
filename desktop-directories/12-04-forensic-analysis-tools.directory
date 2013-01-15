@@ -2,5 +2,7 @@
 Name=Forensic Analysis Tools
 Name[fr]=Outils d'Investigation Analyse
 Name[es]=Herramientas de Análisis Forense
+Name[hr]=Forenzicki Analiticki Alati
+Name[de]=Forensik: Analyse-Tools
 Type=Directory
 Icon=forensics-trans.png

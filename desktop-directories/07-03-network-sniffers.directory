@@ -2,5 +2,7 @@
 Name=Network Sniffers
 Name[fr]=Renifleurs de Réseau
 Name[es]=Husmeando Redes
+Name[hr]=Mrezni Sniferi 
+Name[de]=Netzwerksniffer
 Type=Directory
 Icon=sniffing-spoofing-trans.png

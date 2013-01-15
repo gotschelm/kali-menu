@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=driftnet
 Encoding=UTF-8
-Exec=sh -c "driftnet -h;sudo -s"
+Exec=sh -c "driftnet -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=fimap
 Encoding=UTF-8
-Exec=sh -c "fimap -h;sudo -s"
+Exec=sh -c "fimap -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

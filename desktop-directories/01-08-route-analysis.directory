@@ -2,5 +2,7 @@
 Name=Route Analysis
 Name[fr]=Analyse Route
 Name[es]=Análisis de Ruteo
+Name[hr]=Analiza Ruta
+Name[de]=Routenanalyse
 Type=Directory
 Icon=info-gathering-trans.png

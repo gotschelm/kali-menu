@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=jigsaw
 Encoding=UTF-8
-Exec=sh -c "jigsaw -h;sudo -s"
+Exec=sh -c "jigsaw -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

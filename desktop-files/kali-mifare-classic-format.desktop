@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=mifare-classic-format
 Encoding=UTF-8
-Exec=sh -c "mifare-classic-format -h;sudo -s"
+Exec=sh -c "mifare-classic-format -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

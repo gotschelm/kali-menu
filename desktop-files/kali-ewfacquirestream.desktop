@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ewfacquirestream
 Encoding=UTF-8
-Exec=sh -c "ewfacquirestream -h;sudo -s"
+Exec=sh -c "ewfacquirestream -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

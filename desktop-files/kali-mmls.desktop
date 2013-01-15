@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=mmls
 Encoding=UTF-8
-Exec=sh -c "mmls;sudo -s"
+Exec=sh -c "mmls;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

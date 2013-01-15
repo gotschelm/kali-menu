@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=spike-generic_listen_tcp
 Encoding=UTF-8
-Exec=sh -c "generic_listen_tcp;sudo -s"
+Exec=sh -c "generic_listen_tcp;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

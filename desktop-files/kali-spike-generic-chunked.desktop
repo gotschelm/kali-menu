@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=spike-generic_chunked
 Encoding=UTF-8
-Exec=sh -c "generic_chunked;sudo -s"
+Exec=sh -c "generic_chunked;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

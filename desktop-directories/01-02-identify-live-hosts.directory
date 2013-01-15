@@ -2,5 +2,7 @@
 Name=Live Host Identification
 Name[fr]=En Direct D'identification D'hôte
 Name[es]=Identificación de Hosts en línea
+Name[hr]=Identifikacija Hostova
+Name[de]=Live-Host-Erkennung
 Type=Directory
 Icon=info-gathering-trans.png

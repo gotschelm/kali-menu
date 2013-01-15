@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=tcpflow
 Encoding=UTF-8
-Exec=sh -c "tcpflow -h;sudo -s"
+Exec=sh -c "tcpflow -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=pipal
 Encoding=UTF-8
-Exec=sh -c "pipal -h;sudo -s"
+Exec=sh -c "pipal -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

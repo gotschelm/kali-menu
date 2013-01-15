@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=voiphopper
 Encoding=UTF-8
-Exec=sh -c "voiphopper;sudo -s"
+Exec=sh -c "voiphopper;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

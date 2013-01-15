@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=xsser
 Encoding=UTF-8
-Exec=sh -c "xsser -h;sudo -s"
+Exec=sh -c "xsser -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

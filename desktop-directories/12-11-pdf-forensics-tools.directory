@@ -2,5 +2,7 @@
 Name=PDF Forensics Tools
 Name[fr]=Outils d'Investigation PDF
 Name[es]=Herramientas Forenses para PDF
+Name[hr]=PDF Forenzika
+Name[de]=PDF-Forensik
 Type=Directory
 Icon=forensics-trans.png

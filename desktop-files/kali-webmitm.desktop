@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=webmitm
 Encoding=UTF-8
-Exec=sh -c "webmitm -h;sudo -s"
+Exec=sh -c "webmitm -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

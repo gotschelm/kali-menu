@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=inverse_lookup6
 Encoding=UTF-8
-Exec=sh -c "inverse_lookup6;sudo -s"
+Exec=sh -c "inverse_lookup6;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

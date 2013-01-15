@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sslscan
 Encoding=UTF-8
-Exec=sh -c "sslscan;sudo -s"
+Exec=sh -c "sslscan;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

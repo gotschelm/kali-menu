@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=rtpinsertsound
 Encoding=UTF-8
-Exec=sh -c "rtpinsertsound -h;sudo -s"
+Exec=sh -c "rtpinsertsound -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

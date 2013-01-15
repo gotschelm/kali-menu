@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=netsniff-ng
 Encoding=UTF-8
-Exec=sh -c "netsniff-ng -h;sudo -s"
+Exec=sh -c "netsniff-ng -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

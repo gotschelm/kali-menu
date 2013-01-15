@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=binwalk
 Encoding=UTF-8
-Exec=sh -c "binwalk;sudo -s"
+Exec=sh -c "binwalk;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

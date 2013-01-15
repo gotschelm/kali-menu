@@ -2,5 +2,7 @@
 Name=Open Source Assessment
 Name[fr]=L'évaluation Open Source
 Name[es]=Evaluación de Código Abierto
+Name[hr]=Evaluacija Otvorenog Koda
+Name[de]=OpenSource-Assessment
 Type=Directory
 Icon=vuln-assessment-trans.png

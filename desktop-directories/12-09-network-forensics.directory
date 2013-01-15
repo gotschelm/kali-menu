@@ -2,5 +2,7 @@
 Name=Network Forensics
 Name[fr]=Criminalistique de Réseau
 Name[es]=Forensia en Redes
+Name[hr]=Mrezna Forenzika
+Name[de]=Netzwerk-Forensik
 Type=Directory
 Icon=forensics-trans.png

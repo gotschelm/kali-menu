@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dns2tcpd
 Encoding=UTF-8
-Exec=sh -c "dns2tcpd;sudo -s"
+Exec=sh -c "dns2tcpd;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

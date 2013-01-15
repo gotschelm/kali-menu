@@ -2,5 +2,7 @@
 Name=Misc Scanners
 Name[fr]=
 Name[es]=Otros Escáner
+Name[hr]=Razni Skeneri
+Name[de]=verschiedene Scanner
 Type=Directory
 Icon=vuln-assessment-trans.png

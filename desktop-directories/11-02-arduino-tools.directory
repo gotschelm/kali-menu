@@ -2,5 +2,7 @@
 Name=Arduino Tools
 Name[fr]=Outils Arduino
 Name[es]=Herramientas Arduino
+Name[hr]=Arduino Alati
+Name[de]=Arduino
 Type=Directory
 Icon=hardware-hacking-trans.png

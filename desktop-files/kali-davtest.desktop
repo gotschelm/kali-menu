@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=davtest
 Encoding=UTF-8
-Exec=sh -c "davtest.pl;sudo -s"
+Exec=sh -c "davtest.pl;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

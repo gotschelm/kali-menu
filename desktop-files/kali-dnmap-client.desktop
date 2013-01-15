@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dnmap-client
 Encoding=UTF-8
-Exec=sh -c "dnmap_client;sudo -s"
+Exec=sh -c "dnmap_client;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

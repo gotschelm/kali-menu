@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dnswalk
 Encoding=UTF-8
-Exec=sh -c "dnswalk --help;sudo -s"
+Exec=sh -c "dnswalk --help;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

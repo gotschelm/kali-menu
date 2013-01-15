@@ -2,5 +2,7 @@
 Name=Web Application Proxies
 Name[fr]=Procurations des WebApp
 Name[es]=Aplicaciones Proxy
+Name[hr]=Web Proxy
+Name[de]=Webapplikations-Proxies
 Type=Directory
 Icon=web-application-trans.png

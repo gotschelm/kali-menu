@@ -2,5 +2,7 @@
 Name=GPSd
 Name[fr]=GPSd
 Name[es]=GPSd
+Name[hr]=GPSd
+Name[de]=GPSd
 Type=Directory
 Icon=system-services-trans.png

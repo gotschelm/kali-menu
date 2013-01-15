@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=nmap
 Encoding=UTF-8
-Exec=sh -c "nmap;sudo -s"
+Exec=sh -c "nmap;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

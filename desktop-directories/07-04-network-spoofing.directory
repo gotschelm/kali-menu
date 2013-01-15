@@ -2,5 +2,7 @@
 Name=Network Spoofing
 Name[fr]=Usurpation Réseau
 Name[es]=Envenenamiento de Redes
+Name[hr]=Spoofing
+Name[de]=Spoofing
 Type=Directory
 Icon=sniffing-spoofing-trans.png

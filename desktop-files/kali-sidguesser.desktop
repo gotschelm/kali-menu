@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sidguesser
 Encoding=UTF-8
-Exec=sh -c "sidguess;sudo -s"
+Exec=sh -c "sidguess;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=netdiscover
 Encoding=UTF-8
-Exec=sh -c "netdiscover -h;sudo -s"
+Exec=sh -c "netdiscover -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

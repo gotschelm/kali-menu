@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=oscanner
 Encoding=UTF-8
-Exec=sh -c "oscanner;sudo -s"
+Exec=sh -c "oscanner;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

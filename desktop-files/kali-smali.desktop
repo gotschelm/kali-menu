@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=smali
 Encoding=UTF-8
-Exec=sh -c "java -jar /usr/bin/smali --help;sudo -s"
+Exec=sh -c "java -jar /usr/bin/smali --help;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

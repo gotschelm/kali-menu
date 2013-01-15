@@ -2,5 +2,7 @@
 Name=Teensy Tools
 Name[fr]=Outils Teensy
 Name[es]=Herramientas Teensy
+Name[hr]=Teensy Alati
+Name[de]=Teensy
 Type=Directory
 Icon=hardware-hacking-trans.png

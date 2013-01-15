@@ -2,5 +2,7 @@
 Name=VoIP Analysis
 Name[fr]=Analyse VoIP
 Name[es]=Análisis de VoIP
+Name[hr]=VoIP Analiza
+Name[de]=VoIP-Analyse
 Type=Directory
 Icon=info-gathering-trans.png

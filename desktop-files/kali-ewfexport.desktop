@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ewfexport
 Encoding=UTF-8
-Exec=sh -c "ewfexport -h;sudo -s"
+Exec=sh -c "ewfexport -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

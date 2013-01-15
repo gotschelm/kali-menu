@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=fsstat
 Encoding=UTF-8
-Exec=sh -c "fsstat;sudo -s"
+Exec=sh -c "fsstat;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

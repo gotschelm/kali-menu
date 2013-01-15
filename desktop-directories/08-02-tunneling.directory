@@ -2,5 +2,7 @@
 Name=Tunneling Tools
 Name[fr]=Tunnel
 Name[es]=Herramientas para Túneles
+Name[hr]=Tuneli
+Name[de]=Tunneln
 Type=Directory
 Icon=maintaining-access-trans.png

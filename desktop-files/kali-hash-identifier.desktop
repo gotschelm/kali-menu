@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=hash-identifier
 Encoding=UTF-8
-Exec=sh -c "hash-identifier;sudo -s"
+Exec=sh -c "hash-identifier;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

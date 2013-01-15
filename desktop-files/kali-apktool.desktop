@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=apktool
 Encoding=UTF-8
-Exec=sh -c "apktool;sudo -s"
+Exec=sh -c "apktool;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

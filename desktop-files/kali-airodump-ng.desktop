@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=airodump-ng
 Encoding=UTF-8
-Exec=sh -c "airodump-ng --help;sudo -s"
+Exec=sh -c "airodump-ng --help;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

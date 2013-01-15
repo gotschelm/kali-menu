@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=thc-ssl-dos
 Encoding=UTF-8
-Exec=sh -c "thc-ssl-dos -h;sudo -s"
+Exec=sh -c "thc-ssl-dos -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

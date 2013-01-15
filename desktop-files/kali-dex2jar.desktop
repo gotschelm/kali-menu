@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dex2jar
 Encoding=UTF-8
-Exec=sh -c "d2j-dex2jar -h;sudo -s"
+Exec=sh -c "d2j-dex2jar -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

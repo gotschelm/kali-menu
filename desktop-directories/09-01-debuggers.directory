@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Debuggers
-Name[fr]=
+Name[fr]=Débogueurs
 Name[es]=Depurador
+Name[hr]=Debugeri
+Name[de]=Debugger
 Type=Directory
 Icon=reverse-engineering-trans.png

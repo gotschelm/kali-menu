@@ -2,5 +2,7 @@
 Name=SSL Analysis
 Name[fr]=Analyse SSL
 Name[es]=Análisis SSL
+Name[hr]=SSL Analiza
+Name[de]=SSL-Analyse
 Type=Directory
 Icon=info-gathering-trans.png

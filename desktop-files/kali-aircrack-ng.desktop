@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=aircrack-ng
 Encoding=UTF-8
-Exec=sh -c "aircrack-ng --help;sudo -s"
+Exec=sh -c "aircrack-ng --help;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=pdgmail
 Encoding=UTF-8
-Exec=sh -c "pdgmail -h;sudo -s"
+Exec=sh -c "pdgmail -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

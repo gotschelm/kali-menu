@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sqlninja
 Encoding=UTF-8
-Exec=sh -c "sqlninja;sudo -s"
+Exec=sh -c "sqlninja;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

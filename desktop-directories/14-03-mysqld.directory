@@ -2,5 +2,7 @@
 Name=MySQL
 Name[fr]=MySQL
 Name[es]=MySQL
+Name[hr]=MySQL
+Name[de]=MySQL
 Type=Directory
 Icon=system-services-trans.png

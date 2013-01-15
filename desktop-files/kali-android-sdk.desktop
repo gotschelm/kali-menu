@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=android-sdk
 Encoding=UTF-8
-Exec=sh -c "android;sudo -s"
+Exec=sh -c "android;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=false

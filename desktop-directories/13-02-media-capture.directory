@@ -2,5 +2,7 @@
 Name=Media Capture
 Name[fr]=Capture des Médias
 Name[es]=Capturador de Medios
+Name[hr]=Mediji Za Snimanje
+Name[de]=Medien-Mitschnitt
 Type=Directory
 Icon=reporting-tools-trans.png

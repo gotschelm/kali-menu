@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=rtpflood
 Encoding=UTF-8
-Exec=sh -c "rtpflood;sudo -s"
+Exec=sh -c "rtpflood;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=arping
 Encoding=UTF-8
-Exec=sh -c "arping;sudo -s"
+Exec=sh -c "arping;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

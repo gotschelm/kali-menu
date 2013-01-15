@@ -2,5 +2,7 @@
 Name=BeEF
 Name[fr]=BeEF
 Name[es]=BeEF
+Name[hr]=BeEF
+Name[de]=BeEF
 Type=Directory
 Icon=system-services-trans.png

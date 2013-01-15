@@ -2,5 +2,7 @@
 Name=Forensics
 Name[fr]=Criminalistique
 Name[es]=Forensia
+Name[hr]=Forenzika
+Name[de]=Forensik
 Type=Directory
 Icon=forensics-trans.png

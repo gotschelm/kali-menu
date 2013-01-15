@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=chntpw
 Encoding=UTF-8
-Exec=sh -c "chntpw -h;sudo -s"
+Exec=sh -c "chntpw -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

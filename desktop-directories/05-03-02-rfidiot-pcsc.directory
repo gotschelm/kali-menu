@@ -2,5 +2,7 @@
 Name=RFIDiot PCSC
 Name[fr]=RFIDiot PCSC
 Name[es]=RFIDiot PCSC
+Name[hr]=RFIDiot PCSC
+Name[de]=RFIDiot PCSC
 Type=Directory
 Icon=wireless-attacks-trans.png

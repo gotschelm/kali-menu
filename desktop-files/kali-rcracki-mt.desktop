@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=rcracki_mt
 Encoding=UTF-8
-Exec=sh -c "rcracki_mt;sudo -s"
+Exec=sh -c "rcracki_mt;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

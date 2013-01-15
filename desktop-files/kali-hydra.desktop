@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=hydra
 Encoding=UTF-8
-Exec=sh -c "hydra -h;sudo -s"
+Exec=sh -c "hydra -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

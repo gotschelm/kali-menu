@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=powerfuzzer
 Encoding=UTF-8
-Exec=sh -c "powerfuzzer;sudo -s"
+Exec=sh -c "powerfuzzer;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=false

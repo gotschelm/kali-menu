@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=oclhashcat-lite
 Encoding=UTF-8
-Exec=sh -c "oclhashcat_lite;sudo -s"
+Exec=sh -c "oclhashcat_lite;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

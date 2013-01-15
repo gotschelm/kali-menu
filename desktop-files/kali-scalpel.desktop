@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=scalpel
 Encoding=UTF-8
-Exec=sh -c "scalpel -h;sudo -s"
+Exec=sh -c "scalpel -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

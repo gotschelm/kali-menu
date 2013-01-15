@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Hardware Hacking
 Name[fr]=Piratage du Matériel
-Name[es]= Hackeo de Hardware
+Name[es]=Hackeo de Hardware
+Name[hr]=Hakiranje Hardvera
+Name[de]=Hardware-Hacking
 Type=Directory
 Icon=hardware-hacking-trans.png

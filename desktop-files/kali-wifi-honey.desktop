@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=wifi-honey
 Encoding=UTF-8
-Exec=sh -c "wifi-honey -h;sudo -s"
+Exec=sh -c "wifi-honey -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

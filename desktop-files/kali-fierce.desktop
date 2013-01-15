@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=fierce
 Encoding=UTF-8
-Exec=sh -c "fierce -h;sudo -s"
+Exec=sh -c "fierce -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

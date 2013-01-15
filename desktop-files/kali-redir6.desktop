@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=redir6
 Encoding=UTF-8
-Exec=sh -c "redir6;sudo -s"
+Exec=sh -c "redir6;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=peepdf
 Encoding=UTF-8
-Exec=sh -c "peepdf -h;sudo -s"
+Exec=sh -c "peepdf -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

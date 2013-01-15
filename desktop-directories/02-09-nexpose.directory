@@ -2,5 +2,7 @@
 Name=NeXpose
 Name[fr]=NeXpose
 Name[es]=NeXpose
+Name[hr]=NeXpose
+Name[de]=NeXpose
 Type=Directory
 Icon=vuln-assessment-trans.png

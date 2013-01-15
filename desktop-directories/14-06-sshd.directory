@@ -2,5 +2,7 @@
 Name=SSH
 Name[fr]=SSH
 Name[es]=SSH
+Name[hr]=SSH
+Name[de]=SSH
 Type=Directory
 Icon=system-services-trans.png

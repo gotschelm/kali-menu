@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dirbuster
 Encoding=UTF-8
-Exec=sh -c "dirbuster;sudo -s"
+Exec=sh -c "dirbuster;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=false

@@ -2,5 +2,7 @@
 Name=Evidence Management
 Name[fr]=Gestion de la Preuve
 Name[es]=Gestión de Evidencia
+Name[hr]=Upravljanje Dokazima
+Name[de]=Beweisverwaltung
 Type=Directory
 Icon=reporting-tools-trans.png

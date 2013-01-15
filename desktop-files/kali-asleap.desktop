@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=asleap
 Encoding=UTF-8
-Exec=sh -c "asleap -h;sudo -s"
+Exec=sh -c "asleap -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

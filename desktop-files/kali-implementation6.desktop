@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=implementation6
 Encoding=UTF-8
-Exec=sh -c "implementation6;sudo -s"
+Exec=sh -c "implementation6;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -2,5 +2,7 @@
 Name=Web Stress Testing
 Name[fr]=Stress Tests Web
 Name[es]=Pruebas de Stress para Web
+Name[hr]=Web Stresno Testiranje
+Name[de]=Web-Stresstests
 Type=Directory
 Icon=stress-testing-trans.png

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ohrwurm
 Encoding=UTF-8
-Exec=sh -c "ohrwurm;sudo -s"
+Exec=sh -c "ohrwurm;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

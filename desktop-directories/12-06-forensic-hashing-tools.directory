@@ -2,5 +2,7 @@
 Name=Forensic Hashing Tools
 Name[fr]=Criminalistique Outils de Hachage
 Name[es]=Herramientas Forenses de Hashing
+Name[hr]=Forenzicki Hashing Alati
+Name[de]=Forensik: Hashing
 Type=Directory
 Icon=forensics-trans.png

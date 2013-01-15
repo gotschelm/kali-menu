@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=RAM Forensics Tools
 Name[fr]=Outils d'Investigation RAM
-Name[es]=Herramientas Forenses para RAM
+Name[es]=Herramientas Forenses Para RAM
+Name[hr]=RAM Forenzika
+Name[de]=RAM-Forensik
 Type=Directory
 Icon=forensics-trans.png

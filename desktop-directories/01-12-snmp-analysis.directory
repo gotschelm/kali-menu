@@ -1,5 +1,7 @@
 [Desktop Entry]
 Name=SNMP Analysis
 Name[es]=Análisis SNMP
+Name[hr]=SNMP Analiza
+Name[de]=SNMP-Analyse
 Type=Directory
 Icon=info-gathering-trans.png

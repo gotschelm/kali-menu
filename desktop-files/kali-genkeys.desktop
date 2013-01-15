@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=genkeys
 Encoding=UTF-8
-Exec=sh -c "genkeys;sudo -s"
+Exec=sh -c "genkeys;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

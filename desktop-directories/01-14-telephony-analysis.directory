@@ -2,5 +2,7 @@
 Name=Telephony Analysis
 Name[fr]=Analyse Téléphonie
 Name[es]=Análisis de Telefonía
+Name[hr]=Telefonska Analiza
+Name[de]=Telefon-Analyse
 Type=Directory
 Icon=info-gathering-trans.png

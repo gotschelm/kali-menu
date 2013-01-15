@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=openvas-setup
 Encoding=UTF-8
-Exec=sh -c "openvas-setup;sudo -s"
+Exec=sh -c "openvas-setup;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

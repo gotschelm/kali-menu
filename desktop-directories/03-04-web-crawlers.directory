@@ -2,5 +2,7 @@
 Name=Web Crawlers
 Name[fr]=Robots d'Indexation
 Name[es]=Indexadores Web
+Name[hr]=Web Crawlers
+Name[de]=Webcrawler
 Type=Directory
 Icon=web-application-trans.png

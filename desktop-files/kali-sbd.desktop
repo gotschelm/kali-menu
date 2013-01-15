@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sbd
 Encoding=UTF-8
-Exec=sh -c "sbd -h;sudo -s"
+Exec=sh -c "sbd -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

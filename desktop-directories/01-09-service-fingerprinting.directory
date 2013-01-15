@@ -2,5 +2,7 @@
 Name=Service Fingerprinting
 Name[fr]=Détection de Service
 Name[es]=Detección de Servicio
+Name[hr]=Detekcija Servisa
+Name[de]=Netzwerkdienste-Identifikation
 Type=Directory
 Icon=info-gathering-trans.png

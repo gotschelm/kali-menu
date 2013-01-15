@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dbpwaudit
 Encoding=UTF-8
-Exec=sh -c "dbpwaudit;sudo -s"
+Exec=sh -c "dbpwaudit;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

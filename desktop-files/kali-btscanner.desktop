@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=btscanner
 Encoding=UTF-8
-Exec=sh -c "btscanner -h;sudo -s"
+Exec=sh -c "btscanner -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

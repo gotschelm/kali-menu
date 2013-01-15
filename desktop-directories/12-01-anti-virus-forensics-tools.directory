@@ -2,5 +2,7 @@
 Name=Anti-Virus Forensics Tools
 Name[fr]=Outils Criminalistique Anti-Virus
 Name[es]=Herramientas Forenses de Anti-Virus
+Name[hr]=Anti Virus Forenzika
+Name[de]=Antivirus-Forensik
 Type=Directory
 Icon=forensics-trans.png

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=affxml
 Encoding=UTF-8
-Exec=sh -c "affxml -h;sudo -s"
+Exec=sh -c "affxml -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

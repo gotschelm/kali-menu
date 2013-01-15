@@ -2,5 +2,7 @@
 Name=Android Tools
 Name[fr]=Outils Android
 Name[es]=Herramientas Android
+Name[hr]=Android Alati
+Name[de]=Android
 Type=Directory
 Icon=hardware-hacking-trans.png

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sshd_stop
 Encoding=UTF-8
-Exec=sh -c "service ssh stop;sudo -s"
+Exec=sh -c "service ssh stop;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

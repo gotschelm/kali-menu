@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=readpst
 Encoding=UTF-8
-Exec=sh -c "readpst -h;sudo -s"
+Exec=sh -c "readpst -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

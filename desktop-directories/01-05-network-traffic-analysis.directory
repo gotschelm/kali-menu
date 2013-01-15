@@ -2,5 +2,7 @@
 Name=Traffic Analysis
 Name[fr]=L'analyse du Trafic
 Name[es]=Análisis de Tráfico
+Name[hr]=Analiza Prometa
+Name[de]=Netzwerkverkehr-Analyse
 Type=Directory
 Icon=info-gathering-trans.png

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sipsak
 Encoding=UTF-8
-Exec=sh -c "sipsak -h;sudo -s"
+Exec=sh -c "sipsak -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

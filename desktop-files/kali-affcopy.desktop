@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=affcopy
 Encoding=UTF-8
-Exec=sh -c "affcopy -h;sudo -s"
+Exec=sh -c "affcopy -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

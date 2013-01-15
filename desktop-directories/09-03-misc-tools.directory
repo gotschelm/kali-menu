@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Misc RE Tools
-Name[fr]=
+Name[fr]=Misc RE Tools
 Name[es]=Otras Herramientas de Ingeniería Reversa
+Name[hr]=Ostali Alati Za Obrnuti Inzenjering
+Name[de]=verschiedene RE-Tools
 Type=Directory
 Icon=reverse-engineering-trans.png

@@ -2,5 +2,7 @@
 Name=Maintaining Access
 Name[fr]=Maintien de l'Accès
 Name[es]=Manteniendo Acceso
+Name[hr]=Odrzavanje Pristupa
+Name[de]=Zugang etablieren
 Type=Directory
 Icon=maintaining-access-trans.png

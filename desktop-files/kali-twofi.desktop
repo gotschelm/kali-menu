@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=twofi
 Encoding=UTF-8
-Exec=sh -c "twofi -h;sudo -s"
+Exec=sh -c "twofi -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

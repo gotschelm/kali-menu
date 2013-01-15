@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=findmyhash
 Encoding=UTF-8
-Exec=sh -c "findmyhash;sudo -s"
+Exec=sh -c "findmyhash;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

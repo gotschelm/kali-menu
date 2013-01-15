@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=recoverjpeg
 Encoding=UTF-8
-Exec=sh -c "recoverjpeg -h;sudo -s"
+Exec=sh -c "recoverjpeg -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

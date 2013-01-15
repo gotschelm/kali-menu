@@ -2,5 +2,7 @@
 Name=Digital Forensics
 Name[fr]=Criminalistique Numérique
 Name[es]=Forensia Digital
+Name[hr]=Digitalna Forenzika
+Name[de]=Digitale Forensik
 Type=Directory
 Icon=forensics-trans.png

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=proxytunnel
 Encoding=UTF-8
-Exec=sh -c "proxytunnel -h;sudo -s"
+Exec=sh -c "proxytunnel -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=foremost
 Encoding=UTF-8
-Exec=sh -c "foremost -h;sudo -s"
+Exec=sh -c "foremost -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

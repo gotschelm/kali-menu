@@ -2,5 +2,7 @@
 Name=Metasploit
 Name[fr]=Metasploit
 Name[es]=Metasploit
+Name[hr]=Metasploit
+Name[de]=Metasploit
 Type=Directory
 Icon=system-services-trans.png

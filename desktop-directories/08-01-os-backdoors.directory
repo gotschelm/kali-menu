@@ -2,5 +2,7 @@
 Name=OS Backdoors
 Name[fr]=Backdoors OS
 Name[es]=Puertas Traseras para SO
+Name[hr]=OS Backdoors
+Name[de]=OS-Backdoors
 Type=Directory
 Icon=maintaining-access-trans.png

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=policygen
 Encoding=UTF-8
-Exec=sh -c "policygen -h;sudo -s"
+Exec=sh -c "policygen -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

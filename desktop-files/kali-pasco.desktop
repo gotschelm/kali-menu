@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=pasco
 Encoding=UTF-8
-Exec=sh -c "pasco;sudo -s"
+Exec=sh -c "pasco;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

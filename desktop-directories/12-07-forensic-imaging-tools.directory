@@ -2,5 +2,7 @@
 Name=Forensic Imaging Tools
 Name[fr]=Outils d'Investigation d'Imagerie
 Name[es]=Herramientas Forenses para Imágenes 
+Name[hr]=Forenzicki Alati Za Slike
+Name[de]=Forensik: Abbild-Tools
 Type=Directory
 Icon=forensics-trans.png

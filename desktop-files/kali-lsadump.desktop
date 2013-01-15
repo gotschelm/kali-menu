@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=lsadump
 Encoding=UTF-8
-Exec=sh -c "lsadump -h;sudo -s"
+Exec=sh -c "lsadump -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=bluelog
 Encoding=UTF-8
-Exec=sh -c "bluelog -h;sudo -s"
+Exec=sh -c "bluelog -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=se-toolkit
 Encoding=UTF-8
-Exec=sh -c "se-toolkit;sudo -s"
+Exec=sh -c "se-toolkit;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

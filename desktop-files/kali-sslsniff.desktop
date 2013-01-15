@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=sslsniff
 Encoding=UTF-8
-Exec=sh -c "sslsniff;sudo -s"
+Exec=sh -c "sslsniff;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

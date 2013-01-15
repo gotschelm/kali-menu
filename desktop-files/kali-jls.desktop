@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=jls
 Encoding=UTF-8
-Exec=sh -c "jls;sudo -s"
+Exec=sh -c "jls;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

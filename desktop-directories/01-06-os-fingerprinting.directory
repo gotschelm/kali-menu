@@ -2,5 +2,7 @@
 Name=OS Fingerprinting
 Name[fr]=Détection d'OS
 Name[es]=Detección del SO
+Name[hr]=Detekcija OS-a
+Name[de]=OS-Identifikation
 Type=Directory
 Icon=info-gathering-trans.png

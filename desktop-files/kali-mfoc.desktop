@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=mfoc
 Encoding=UTF-8
-Exec=sh -c "mfoc -h;sudo -s"
+Exec=sh -c "mfoc -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

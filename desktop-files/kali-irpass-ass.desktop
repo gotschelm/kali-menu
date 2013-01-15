@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=irpas-ass
 Encoding=UTF-8
-Exec=sh -c "ass -h;sudo -s"
+Exec=sh -c "ass -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

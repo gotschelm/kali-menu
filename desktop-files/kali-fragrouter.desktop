@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=fragrouter
 Encoding=UTF-8
-Exec=sh -c "fragrouter -h;sudo -s"
+Exec=sh -c "fragrouter -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

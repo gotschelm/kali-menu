@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=fang
 Encoding=UTF-8
-Exec=sh -c "fang -h;sudo -s"
+Exec=sh -c "fang -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

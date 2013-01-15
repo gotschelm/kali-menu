@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=wash
 Encoding=UTF-8
-Exec=sh -c "wash -h;sudo -s"
+Exec=sh -c "wash -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

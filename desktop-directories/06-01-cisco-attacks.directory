@@ -2,5 +2,7 @@
 Name=Cisco Attacks
 Name[fr]=Attaques Cisco
 Name[es]=Ataques Cisco
+Name[hr]=Cisco Napadi
+Name[de]=Cisco-Angriffe
 Type=Directory
 Icon=exploitation-tools-trans.png

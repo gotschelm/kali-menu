@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=baksmali
 Encoding=UTF-8
-Exec=sh -c "java -jar /usr/bin/baksmali --help;sudo -s"
+Exec=sh -c "java -jar /usr/bin/baksmali --help;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

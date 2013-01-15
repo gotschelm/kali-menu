@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=acccheck
 Encoding=UTF-8
-Exec=sh -c "acccheck.pl;sudo -s"
+Exec=sh -c "acccheck.pl;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

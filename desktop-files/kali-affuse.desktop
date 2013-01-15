@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=affuse
 Encoding=UTF-8
-Exec=sh -c "affuse -h;sudo -s"
+Exec=sh -c "affuse -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

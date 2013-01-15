@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=wfuzz
 Encoding=UTF-8
-Exec=sh -c "wfuzz;sudo -s"
+Exec=sh -c "wfuzz;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

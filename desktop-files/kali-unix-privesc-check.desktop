@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=unix-privesc-check
 Encoding=UTF-8
-Exec=sh -c "unix-privesc-check;sudo -s"
+Exec=sh -c "unix-privesc-check;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

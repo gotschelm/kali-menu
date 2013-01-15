@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=flasm
 Encoding=UTF-8
-Exec=sh -c "flasm;sudo -s"
+Exec=sh -c "flasm;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

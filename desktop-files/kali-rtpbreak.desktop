@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=rtpbreak
 Encoding=UTF-8
-Exec=sh -c "rtpbreak -h;sudo -s"
+Exec=sh -c "rtpbreak -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

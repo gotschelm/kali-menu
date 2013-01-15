@@ -2,5 +2,7 @@
 Name=Forensic Suites
 Name[fr]=Suites Criminalistique
 Name[es]=Suite de Forensia
+Name[hr]=Forenzicki Paketi
+Name[de]=Forensik-Werkzeugsammlungen
 Type=Directory
 Icon=forensics-trans.png

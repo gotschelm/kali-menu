@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dc3dd
 Encoding=UTF-8
-Exec=sh -c "dc3dd --help;sudo -s"
+Exec=sh -c "dc3dd --help;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

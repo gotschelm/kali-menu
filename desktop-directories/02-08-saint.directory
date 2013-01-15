@@ -2,5 +2,7 @@
 Name=SAINT
 Name[fr]=SAINT
 Name[es]=SAINT
+Name[hr]=SAINT
+Name[de]=SAINT
 Type=Directory
 Icon=vuln-assessment-trans.png

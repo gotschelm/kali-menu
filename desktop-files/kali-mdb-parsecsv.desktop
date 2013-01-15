@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=mdb-parsecsv
 Encoding=UTF-8
-Exec=sh -c "mdb-parsecsv;sudo -s"
+Exec=sh -c "mdb-parsecsv;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

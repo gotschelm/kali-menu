@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=rifiuti
 Encoding=UTF-8
-Exec=sh -c "rifiuti;sudo -s"
+Exec=sh -c "rifiuti;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

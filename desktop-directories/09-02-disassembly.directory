@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Disassembly
-Name[fr]=
+Name[fr]=Disassembly 
 Name[es]=Desensamblar
+Name[hr]=Rastavljanje
+Name[de]=Disassembler
 Type=Directory
 Icon=reverse-engineering-trans.png

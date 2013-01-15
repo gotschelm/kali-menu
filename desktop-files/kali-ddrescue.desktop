@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ddrescue
 Encoding=UTF-8
-Exec=sh -c "dd_rescue -h;sudo -s"
+Exec=sh -c "dd_rescue -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

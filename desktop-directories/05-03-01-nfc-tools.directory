@@ -2,5 +2,7 @@
 Name=NFC Tools
 Name[fr]=Outils NFC
 Name[es]=Herramientas NFC
+Name[hr]=NFC Alati
+Name[de]=NFC-Tools
 Type=Directory
 Icon=wireless-attacks-trans.png

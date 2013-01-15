@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=pdf-parser
 Encoding=UTF-8
-Exec=sh -c "pdf-parser -h;sudo -s"
+Exec=sh -c "pdf-parser -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

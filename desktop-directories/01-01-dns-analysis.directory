@@ -2,5 +2,7 @@
 Name=DNS Analysis
 Name[fr]=Analyse DNS
 Name[es]=Análisis de DNS
+Name[hr]=Analiza DNSa
+Name[de]=DNS-Analyse
 Type=Directory
 Icon=info-gathering-trans.png

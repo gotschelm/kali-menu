@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ua-tester
 Encoding=UTF-8
-Exec=sh -c "ua-tester;sudo -s"
+Exec=sh -c "ua-tester;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

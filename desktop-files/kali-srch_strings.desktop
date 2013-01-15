@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=srch_strings
 Encoding=UTF-8
-Exec=sh -c "srch_strings -h;sudo -s"
+Exec=sh -c "srch_strings -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
