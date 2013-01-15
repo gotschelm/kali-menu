@@ -4,5 +4,6 @@ Name[fr]=Tests de Stress Réseau
 Name[es]=Pruebas de Stress para Redes
 Name[hr]=Mrezno Stres Testiranje
 Name[de]=Netzwerkstresstests
+Name[it]=Test Stress di Rete
 Type=Directory
 Icon=stress-testing-trans.png

@@ -3,5 +3,6 @@ Name=Wireless Tools
 Name[fr]=
 Name[es]=Herramientas Wireless
 Name[de]=Wireless-Tools
+Name[it]=Strumenti Wireless
 Type=Directory
 Icon=wireless-attacks-trans.png

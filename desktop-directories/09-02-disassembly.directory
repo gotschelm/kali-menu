@@ -4,5 +4,6 @@ Name[fr]=Disassembly
 Name[es]=Desensamblar
 Name[hr]=Rastavljanje
 Name[de]=Disassembler
+Name[it]=Disassembler
 Type=Directory
 Icon=reverse-engineering-trans.png

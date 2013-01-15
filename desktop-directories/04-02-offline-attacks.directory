@@ -4,5 +4,6 @@ Name[fr]=Attaques Hors Connexion
 Name[es]=Ataques sin Conexión
 Name[hr]=Offline Napadi
 Name[de]=Offline-Angriffe
+Name[it]=Attacchi Non In Linea
 Type=Directory
 Icon=password-attacks-trans.png

@@ -4,5 +4,6 @@ Name[fr]=OpenVAS
 Name[es]=OpenVAS
 Name[hr]=OpenVAS
 Name[de]=OpenVAS
+Name[it]=OpenVAS
 Type=Directory
 Icon=vuln-assessment-trans.png

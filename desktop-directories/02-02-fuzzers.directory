@@ -4,5 +4,6 @@ Name[fr]=Fuzzers
 Name[es]=Herramientas para Fuzzing
 Name[hr]=Fuzzing Alati
 Name[de]=Fuzzer
+Name[it]=Strumenti per il Fuzzing
 Type=Directory
 Icon=vuln-assessment-trans.png

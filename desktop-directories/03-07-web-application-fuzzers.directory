@@ -4,5 +4,6 @@ Name[fr]=Fuzzers des WebApp
 Name[es]=Aplicativos para Fuzzing
 Name[hr]=Fuzzeri Web Aplikacija
 Name[de]=Webapplikations-Fuzzer
+Name[it]=Fuzzer Applicazioni Web
 Type=Directory
 Icon=web-application-trans.png

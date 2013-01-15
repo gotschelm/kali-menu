@@ -4,5 +4,6 @@ Name[fr]=Stress Tests WLAN
 Name[es]=Pruebas de Stress para WLAN
 Name[hr]=Bezicno Stresno Testiranje
 Name[de]=WLAN-Stresstests
+Name[it]=Test Stress WLAN
 Type=Directory
 Icon=stress-testing-trans.png

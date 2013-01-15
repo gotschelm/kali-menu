@@ -4,5 +4,6 @@ Name[fr]=L'évaluation Database
 Name[es]=Evaluación de Bases de Datos
 Name[hr]=Evaluacija Baze Podataka
 Name[de]=Datenbank-Assessment
+Name[it]=Analisi Basi Dati
 Type=Directory
 Icon=vuln-assessment-trans.png

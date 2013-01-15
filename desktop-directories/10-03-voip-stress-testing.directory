@@ -4,5 +4,6 @@ Name[fr]=Stress Tests VoIP
 Name[es]=Pruebas de Stress para VoIP
 Name[hr]=VoIP Stresno Testiranje
 Name[de]=VoIP-Stresstests
+Name[it]=Test Stress VoIP
 Type=Directory
 Icon=stress-testing-trans.png

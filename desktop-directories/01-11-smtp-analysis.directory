@@ -4,5 +4,6 @@ Name[fr]=Analyse SMTP
 Name[es]=Análisis SMTP
 Name[hr]=SMTP Analiza
 Name[de]=SMTP-Analyse
+Name[it]=Analisi SMTP
 Type=Directory
 Icon=info-gathering-trans.png

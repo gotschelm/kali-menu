@@ -4,5 +4,6 @@ Name[fr]=Services
 Name[es]=Servicios del Sistema
 Name[hr]=Sistem Servisi
 Name[de]=Systemdienste
+Name[it]=Servizi di Sistema
 Type=Directory
 Icon=system-services-trans.png

@@ -4,5 +4,6 @@ Name[fr]=Détection d'OS
 Name[es]=Detección del SO
 Name[hr]=Detekcija OS-a
 Name[de]=OS-Identifikation
+Name[it]=Identificazione Sistemi Operativi
 Type=Directory
 Icon=info-gathering-trans.png

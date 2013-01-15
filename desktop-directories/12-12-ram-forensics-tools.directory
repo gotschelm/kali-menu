@@ -4,5 +4,6 @@ Name[fr]=Outils d'Investigation RAM
 Name[es]=Herramientas Forenses Para RAM
 Name[hr]=RAM Forenzika
 Name[de]=RAM-Forensik
+Name[it]=Strumenti Analisi Forense RAM
 Type=Directory
 Icon=forensics-trans.png
