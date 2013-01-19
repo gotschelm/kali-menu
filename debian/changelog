@@ -1,3 +1,9 @@
+kali-menu (0.983) kali; urgency=low
+
+  * Changed Fast-Track to Network Exploitation
+
+ -- Devon Kearns <dookie@kali.org>  Sat, 19 Jan 2013 08:13:11 -0700
+
 kali-menu (0.982) kali; urgency=low
 
   * Added italian translation
