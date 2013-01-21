@@ -407,6 +407,14 @@
             		</And></Include>
 		</Menu>
 	</Menu>
+
+                <Menu>
+                        <Name>Other Wireless Tools</Name>
+                        <Directory>05-04-other-wireless.directory</Directory>
+                        <Include><And>
+                                <Category>05-04-other-wireless</Category>
+                        </And></Include>
+                </Menu>
 </Menu>
 
 
