@@ -1,3 +1,9 @@
+kali-menu (0.984) kali; urgency=low
+
+  * Added Other Wireless sub-category
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 21 Jan 2013 05:48:09 -0700
+
 kali-menu (0.983) kali; urgency=low
 
   * Changed Fast-Track to Network Exploitation

@@ -52,6 +52,7 @@
 			05-03-02-rfidiot-pcsc.directory
 			05-03-03-rfidiot-acg.directory
 			05-03-04-rfidiot-frosch.directory
+		05-04-other-wireless.directory
 
 	06-exploitation-tools.directory
 		06-01-cisco-attacks.directory
