@@ -1,3 +1,9 @@
+kali-menu (0.986) kali; urgency=low
+
+  * Added new desktop files and fixed the dff desktop file
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 28 Jan 2013 08:06:59 -0700
+
 kali-menu (0.985) kali; urgency=low
 
   * Added chinese menu translation
