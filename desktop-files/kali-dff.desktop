@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=11-08-forensic-suites;
+Categories=12-08-forensic-suites;
 X-Kali-Package=dff
