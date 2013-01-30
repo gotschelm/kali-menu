@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=irpass-cdp
 Encoding=UTF-8
-Exec=sh -c "cdp -h;${SHELL:-bash}"
+Exec=sh -c "cdp;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

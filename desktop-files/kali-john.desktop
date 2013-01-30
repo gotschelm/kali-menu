@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=john
 Encoding=UTF-8
-Exec=sh -c "john -h;${SHELL:-bash}"
+Exec=sh -c "john;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
