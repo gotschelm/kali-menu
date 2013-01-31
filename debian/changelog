@@ -1,3 +1,9 @@
+kali-menu (0.989) kali; urgency=low
+
+  * Fixed errors in desktop files
+
+ -- Devon Kearns <dookie@kali.org>  Thu, 31 Jan 2013 09:54:37 -0700
+
 kali-menu (0.988) kali; urgency=low
 
   * Fixed a few broken desktop files
