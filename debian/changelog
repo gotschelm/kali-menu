@@ -1,3 +1,9 @@
+kali-menu (0.991) kali; urgency=low
+
+  * Fixed error in 0trace desktop
+
+ -- balding_parrot <balding_parrot@kali.org>  Fri, 01 Feb 2013 22:47:05 +0000
+
 kali-menu (0.990) kali; urgency=low
 
   * Added additional desktop files
