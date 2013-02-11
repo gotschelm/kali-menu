@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=metagoofil
 Encoding=UTF-8
-Exec=sh -c "metagoofil -h;${SHELL:-bash}"
+Exec=sh -c "metagoofil;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
