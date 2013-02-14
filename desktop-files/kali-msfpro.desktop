@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Metasploit Community / Pro
 Encoding=UTF-8
-Exec=sh -c "/opt/metasploit/launchui"
+Exec=sh -c "/opt/metasploit/scripts/launchui.sh"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
