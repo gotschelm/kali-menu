@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=sshd_stop
+Name=sshd stop
 Encoding=UTF-8
 Exec=sh -c "service ssh stop;${SHELL:-bash}"
 Icon=kali-menu.png
