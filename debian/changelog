@@ -1,3 +1,9 @@
+kali-menu (0.993) kali; urgency=low
+
+  * Added metasploit menu items
+
+ -- Mati Aharoni <muts@kali.org>  Thu, 14 Feb 2013 15:52:56 -0500
+
 kali-menu (0.992) kali; urgency=low
 
   * Added additional desktop files

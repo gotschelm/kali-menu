@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=Metasploit Framework
+Name=msfupdate
 Encoding=UTF-8
-Exec=sh -c "msfconsole;${SHELL:-bash}"
+Exec=sh -c "msfupdate;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=06-02-metasploit-framework;top10;
+Categories=06-02-metasploit-framework;
 X-Kali-Package=metasploit-framework
