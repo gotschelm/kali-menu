@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=apache2_start
+Name=apache2 start
 Encoding=UTF-8
 Exec=sh -c "service apache2 start;${SHELL:-bash}"
 Icon=kali-menu.png

@@ -1,12 +1,4 @@
 [Desktop Entry]
-Name=Metasploit Framework
-Name[fr]=Metasploit
-Name[es]=Plataforma Metasploit
-Name[hr]=Metasploit Platforma
-Name[de]=Metasploit Framework
-Name[it]=Metasploit Framework
-Name[zh_CN]=Metasploit Framework
-Name[zh_HK]=Metasploit Framework
-Name[zh_TW]=Metasploit Framework
+Name=Metasploit
 Type=Directory
 Icon=exploitation-tools-trans.png
