@@ -1,3 +1,9 @@
+kali-menu (0.997) kali; urgency=low
+
+  * Added additional desktop files and fixed others
+
+ -- Devon Kearns <dookie@kali.org>  Fri, 15 Feb 2013 13:36:11 -0700
+
 kali-menu (0.996) kali; urgency=low
 
   * Added msf service entries
