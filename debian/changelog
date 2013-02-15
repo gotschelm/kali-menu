@@ -1,3 +1,9 @@
+kali-menu (0.998) kali; urgency=low
+
+  * MSF tool name fix
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 15 Feb 2013 17:57:01 -0500
+
 kali-menu (0.997) kali; urgency=low
 
   * Added additional desktop files and fixed others
