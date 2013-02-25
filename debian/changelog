@@ -1,3 +1,9 @@
+kali-menu (0.9995) kali; urgency=low
+
+  * Added cadaver desktop file
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 25 Feb 2013 16:40:22 -0700
+
 kali-menu (0.9994) kali; urgency=low
 
   * fixed wrong icon set
