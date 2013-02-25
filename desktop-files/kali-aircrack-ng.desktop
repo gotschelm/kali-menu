@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-01-wireless-tools;
+Categories=05-01-wireless-tools;top10;
 X-Kali-Package=aircrack-ng
