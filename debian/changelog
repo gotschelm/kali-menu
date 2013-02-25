@@ -1,3 +1,10 @@
+kali-menu (0.9991) kali; urgency=low
+
+  * Fixed up various desktop files containing .directory extensions in
+    category
+
+ -- Mati Aharoni <muts@kali.org>  Mon, 25 Feb 2013 07:47:18 -0500
+
 kali-menu (0.9990) kali; urgency=low
 
   * Added additional desktop files

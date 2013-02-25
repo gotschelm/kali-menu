@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=14-09-metasploit-service.directory;
+Categories=14-09-metasploit-service;
 X-Kali-Package=metasploit
