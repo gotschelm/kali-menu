@@ -1,3 +1,9 @@
+kali-menu (0.9997) kali; urgency=low
+
+  * Edited the MSF menu entries to comply with the Kali naming standard
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 26 Feb 2013 09:24:56 -0700
+
 kali-menu (0.9996) kali; urgency=low
 
   * Renaming msf desktop entries
