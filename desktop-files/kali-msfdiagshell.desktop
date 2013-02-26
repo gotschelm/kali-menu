@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Metasploit Diagnostic Shell
+Name=metasploit diagnostic shell
 Encoding=UTF-8
 Exec=sh -c "/opt/metasploit/diagnostic_shell;${SHELL:-bash}"
 Icon=kali-menu.png
