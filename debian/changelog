@@ -1,3 +1,9 @@
+kali-menu (0.9998) kali; urgency=low
+
+  * Added MySQL desktop files
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 26 Feb 2013 11:18:08 -0700
+
 kali-menu (0.9997) kali; urgency=low
 
   * Edited the MSF menu entries to comply with the Kali naming standard
