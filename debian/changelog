@@ -1,3 +1,9 @@
+kali-menu (0.99993) kali; urgency=low
+
+  * Fixed up several duplicate desktop files
+
+ -- Mati Aharoni <muts@kali.org>  Thu, 28 Feb 2013 15:39:26 -0500
+
 kali-menu (0.99992) kali; urgency=low
 
   * Added an ikat desktop file
