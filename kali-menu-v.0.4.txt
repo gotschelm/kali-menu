@@ -78,7 +78,7 @@
 
 	09-reverse-engineering.directory
 		09-01-debuggers.directory
-		09-02-dissasembly.directory
+		09-02-disassembly.directory
 		09-03-misc-tools.directory
 
 	10-stress-testing.directory

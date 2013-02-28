@@ -1,3 +1,9 @@
+kali-menu (0.99991) kali; urgency=low
+
+  * Fixed disassembler typo
+
+ -- Mati Aharoni <muts@kali.org>  Thu, 28 Feb 2013 10:46:33 -0500
+
 kali-menu (0.9999) kali; urgency=low
 
   * Edited the oclhashcat-plus and oclhashcat-lite desktop files

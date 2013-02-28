@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=09-02-dissasembly;
+Categories=09-02-disassembly;
 X-Kali-Package=radare2
