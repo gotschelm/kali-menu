@@ -1,3 +1,9 @@
+kali-menu (0.99994) kali; urgency=low
+
+  * Updated msf desktop files
+
+ -- Mati Aharoni <muts@kali.org>  Thu, 28 Feb 2013 16:00:09 -0500
+
 kali-menu (0.99993) kali; urgency=low
 
   * Fixed up several duplicate desktop files
