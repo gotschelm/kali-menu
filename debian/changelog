@@ -1,3 +1,9 @@
+kali-menu (0.99995) kali; urgency=low
+
+  * Added paros desktop file
+
+ -- Devon Kearns <dookie@kali.org>  Fri, 01 Mar 2013 05:30:28 -0700
+
 kali-menu (0.99994) kali; urgency=low
 
   * Updated msf desktop files
