@@ -21,7 +21,7 @@ our %pkg2desktop;
 our %desktop2pkg;
 our %installed;
 
-make_path(OUTGOING_APPDIR, mode => 0755);
+make_path(OUTGOING_APPDIR, { mode => 0755 });
 
 my $lock = get_lock(); # Can stop here if another instance is already running
 

@@ -1,3 +1,10 @@
+kali-menu (1.0) kali; urgency=low
+
+  * Fix update-kali-menu to not create the "mode" and "493" directories in
+    the root directory.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Tue, 05 Mar 2013 16:40:54 +0100
+
 kali-menu (0.99995) kali; urgency=low
 
   * Added paros desktop file
