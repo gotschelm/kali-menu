@@ -1,3 +1,10 @@
+kali-menu (1.1) UNRELEASED; urgency=low
+
+  * Redirect update-kali-menu to /dev/null so that it doesn't keep the
+    terminal filehandle open.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Thu, 07 Mar 2013 11:26:47 +0100
+
 kali-menu (1.0) kali; urgency=low
 
   * Fix update-kali-menu to not create the "mode" and "493" directories in
