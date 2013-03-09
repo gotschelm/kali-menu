@@ -1,9 +1,13 @@
-kali-menu (1.1) UNRELEASED; urgency=low
+kali-menu (1.2) kali; urgency=low
 
+  [ Raphaël Hertzog ]
   * Redirect update-kali-menu to /dev/null so that it doesn't keep the
     terminal filehandle open.
 
- -- Raphaël Hertzog <hertzog@debian.org>  Thu, 07 Mar 2013 11:26:47 +0100
+  [ Mati Aharoni ]
+  * Updated rfidiot desktop files
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 09 Mar 2013 14:28:27 -0500
 
 kali-menu (1.0) kali; urgency=low
 

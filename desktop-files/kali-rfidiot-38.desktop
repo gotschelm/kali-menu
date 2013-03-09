@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-03-04-rfidiot-frosch;
-X-Kali-Package=rfidiot
+X-Kali-Package=python-rfidiot
