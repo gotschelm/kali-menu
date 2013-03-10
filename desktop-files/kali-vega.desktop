@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=03-04-web-crawlers;03-05-web-vulnerability-scanners;
+Categories=03-04-web-crawlers;03-05-web-vulnerability-scanners;03-06-web-application-proxies;
 X-Kali-Package=vega
