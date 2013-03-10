@@ -1,3 +1,9 @@
+kali-menu (1.3) kali; urgency=low
+
+  * Edited the vega desktop file
+
+ -- Devon Kearns <dookie@kali.org>  Sun, 10 Mar 2013 08:23:32 -0600
+
 kali-menu (1.2) kali; urgency=low
 
   [ Raphaël Hertzog ]
