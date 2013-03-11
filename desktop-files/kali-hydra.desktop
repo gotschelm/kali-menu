@@ -6,7 +6,7 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=04-01-online-attacks;
+Categories=04-01-online-attacks;top10;
 X-Kali-Package=hydra
 
 
