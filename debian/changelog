@@ -1,3 +1,9 @@
+kali-menu (1.32) kali; urgency=low
+
+  * Added armitage and zenmap desktop files
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 13 Mar 2013 04:46:34 -0600
+
 kali-menu (1.31) kali; urgency=low
 
   * Added hydra to the top10
