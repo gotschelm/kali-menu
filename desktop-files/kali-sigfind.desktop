@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=ifind
+Name=sigfind
 Encoding=UTF-8
-Exec=sh -c "ifind;${SHELL:-bash}"
+Exec=sh -c "sigfind;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
