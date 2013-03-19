@@ -776,6 +776,18 @@
 				<Category>13-02-media-capture</Category>
 			</And></Include>
 		</Menu>
+
+               <Menu>
+                        <Name>Documentation Management</Name>
+                        <Directory>13-03-documentation.directory</Directory>
+                        <Include><And>
+                                <Category>13-03-documentation</Category>
+                        </And></Include>
+                </Menu>
+
+
+
+
 	</Menu>
 
    <Menu>
@@ -870,6 +882,17 @@
                 </And>
             </Include>
         </Menu>
+
+       <Menu>
+            <Name>Dradis</Name>
+            <Directory>14-10-dradis-service.directory</Directory>
+            <Include>
+                <And>
+                    <Category>14-10-dradis-service</Category>
+                </And>
+            </Include>
+        </Menu>
+
     </Menu>
 </Menu>
 </Menu>

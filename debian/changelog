@@ -1,3 +1,9 @@
+kali-menu (1.322) kali; urgency=low
+
+  * Added beef, dradis to menu. Created a new documentation submenu.
+
+ -- Mati Aharoni <muts@kali.org>  Tue, 19 Mar 2013 10:14:55 -0400
+
 kali-menu (1.321) kali; urgency=low
 
   * Fixed sigfind desktop entry
