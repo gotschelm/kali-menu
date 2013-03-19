@@ -9,7 +9,7 @@ Vcs-Browser: http://git.kali.org/gitweb/?p=packages/kali-menu.git;a=summary
 
 Package: kali-menu
 Architecture: all
-Depends: ${misc:Depends}, ${perl:Depends}, libdpkg-perl, libfile-fcntllock-perl
+Depends: ${misc:Depends}, ${perl:Depends}, libdpkg-perl, libfile-fcntllock-perl, xdg-utils
 Description: Kali Linux custom menu
  This package provides a custom menu for Kali Linux.
  .
