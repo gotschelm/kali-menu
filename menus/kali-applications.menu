@@ -485,6 +485,17 @@
 				<Category>06-08-online-archives</Category>
 			</And></Include>
 		</Menu>
+
+		<Menu>
+			<Name>Inguma Toolkit</Name>
+			<Directory>06-09-inguma.directory</Directory>
+			<Include>
+			<And>
+				<Category>06-09-inguma</Category>
+			</And></Include>
+		</Menu>
+
+
 	</Menu>
 
 	<Menu>
