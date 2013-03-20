@@ -63,6 +63,7 @@
 		06-06-social-engineering-toolkit.directory
 		06-07-exploit-db.directory
 		06-08-online-archives.directory
+		06-09-inguma.directory
 
 	07-sniffing-spoofing.directory
 		07-01-voice-and-surveillance.directory
