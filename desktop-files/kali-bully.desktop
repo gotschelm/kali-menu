@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=airmon-ng
+Name=bully
 Encoding=UTF-8
-Exec=sh -c "airmon-ng --help;${SHELL:-bash}"
+Exec=sh -c "bully;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-01-wireless-tools;
-X-Kali-Package=aircrack-ng
+X-Kali-Package=bully
