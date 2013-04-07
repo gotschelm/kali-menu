@@ -1,3 +1,9 @@
+kali-menu (1.332) kali; urgency=low
+
+  * added hamster-sidekick.desktop file.
+
+ --  Jaime Filson <wik@kali.org>  Sun, 07 Apr 2013 15:03:55 -0400
+
 kali-menu (1.331) kali; urgency=low
 
   * Added jd-gui desktop file
