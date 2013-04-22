@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=pdfbook
 Encoding=UTF-8
-Exec=sh -c "pdfbook -h;${SHELL:-bash}"
+Exec=sh -c "pd-fbook -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
