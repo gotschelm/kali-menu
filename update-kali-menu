@@ -177,7 +177,7 @@ sub parse_kali_desktop_files {
 
 sub get_lock {
     my $lockfile = KALI_MENU_LOCKFILE;
-    system("mkdir -p /var/lock; touch $lockfile") unless -e $lockfile;
+    system("mkdir -p /run/lock /var/lock; touch $lockfile") unless -e $lockfile;
     open my $fh, '>>', $lockfile or syserr("Can't open %s", $lockfile);
     my $fs = new File::FcntlLock l_type => F_WRLCK;
     if (not $fs->lock($fh, F_SETLK)) {
