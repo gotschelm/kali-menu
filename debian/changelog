@@ -1,3 +1,9 @@
+kali-menu (1.340) kali; urgency=low
+
+  * Added a recon-ng desktop file
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 29 May 2013 14:45:30 -0600
+
 kali-menu (1.339) kali; urgency=low
 
   * Edited the zaproxy desktop file
