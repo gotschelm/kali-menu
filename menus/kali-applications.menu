@@ -924,7 +924,7 @@
         </Menu>
 
        <Menu>
-            <Name>OpenVas</Name>
+            <Name>Xplico</Name>
             <Directory>14-12-xplico-service.directory</Directory>
             <Include>
                 <And>
