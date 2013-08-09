@@ -43,6 +43,7 @@
 		04-01-online-attacks.directory
 		04-02-offline-attacks.directory
 		04-03-gpu-tools.directory
+		04-04-pass-hash.directory
 
 	05-wireless-attacks.directory
 		05-01-wireless-tools.directory
@@ -53,6 +54,7 @@
 			05-03-03-rfidiot-acg.directory
 			05-03-04-rfidiot-frosch.directory
 		05-04-other-wireless.directory
+		05-05-sub-ghz.directory
 
 	06-exploitation-tools.directory
 		06-01-cisco-attacks.directory

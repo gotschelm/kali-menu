@@ -346,6 +346,15 @@
 				<Category>04-03-gpu-tools</Category>
 			</And></Include>
 		</Menu>
+
+		<Menu>
+			<Name>Passing the Hash</Name>
+			<Directory>04-04-pass-hash.directory</Directory>
+			<Include><And>
+				<Category>04-04-pass-hash</Category>
+			</And></Include>
+		</Menu>
+
 	</Menu>
 
 

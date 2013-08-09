@@ -1,3 +1,9 @@
+kali-menu (1.346) kali; urgency=low
+
+  * Add PTH submenu and desktop entries
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 09 Aug 2013 10:25:31 -0400
+
 kali-menu (1.345) kali; urgency=low
 
   * Added openvas setup to service menu
