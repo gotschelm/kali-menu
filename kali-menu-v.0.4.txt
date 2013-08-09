@@ -123,4 +123,4 @@
 		14-08-beef-service.directory
 		14-09-metasploit-service.directory
 		14-10-dradis-service.directory
-
+		14-11-openvas-service.directory

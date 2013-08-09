@@ -904,6 +904,18 @@
             </Include>
         </Menu>
 
+       <Menu>
+            <Name>Dradis</Name>
+            <Directory>14-11-openvas-service.directory</Directory>
+            <Include>
+                <And>
+                    <Category>14-11-openvas-service</Category>
+                </And>
+            </Include>
+        </Menu>
+
+
+
     </Menu>
 </Menu>
 </Menu>

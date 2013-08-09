@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=openvas initial setup
+Name=openvas stop
 Encoding=UTF-8
-Exec=sh -c "openvas-setup;${SHELL:-bash}"
+Exec=sh -c "openvas-stop;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=02-06-openvas;
+Categories=14-11-openvas-service;02-06-openvas;
 X-Kali-Package=openvas
