@@ -905,7 +905,7 @@
         </Menu>
 
        <Menu>
-            <Name>Dradis</Name>
+            <Name>OpenVas</Name>
             <Directory>14-11-openvas-service.directory</Directory>
             <Include>
                 <And>
