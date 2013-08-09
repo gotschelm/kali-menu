@@ -923,8 +923,15 @@
             </Include>
         </Menu>
 
-
-
+       <Menu>
+            <Name>OpenVas</Name>
+            <Directory>14-12-xplico-service.directory</Directory>
+            <Include>
+                <And>
+                    <Category>14-12-xplico-service</Category>
+                </And>
+            </Include>
+        </Menu>
     </Menu>
 </Menu>
 </Menu>

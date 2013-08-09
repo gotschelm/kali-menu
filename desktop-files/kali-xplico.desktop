@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=xplico
+Encoding=UTF-8
+Exec=xdg-open http://localhost:9876
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-05-network-traffic-analysis;12-09-network-forensics;
+X-Kali-Package=xplico

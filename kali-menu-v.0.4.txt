@@ -126,3 +126,4 @@
 		14-09-metasploit-service.directory
 		14-10-dradis-service.directory
 		14-11-openvas-service.directory
+		14-12-xplico-service.directory
