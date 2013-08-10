@@ -1,3 +1,9 @@
+kali-menu (1.350) kali; urgency=low
+
+  * Fixed 0trace menu item
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 09 Aug 2013 20:21:04 -0400
+
 kali-menu (1.349) kali; urgency=low
 
   * Fixed smali menu icons

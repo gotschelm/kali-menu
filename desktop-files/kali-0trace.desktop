@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=0trace
 Encoding=UTF-8
-Exec=sh -c "/usr/share/0trace/0trace.sh;${SHELL:-bash}"
+Exec=sh -c "0trace.sh;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
