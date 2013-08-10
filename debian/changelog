@@ -1,3 +1,9 @@
+kali-menu (1.351) kali; urgency=low
+
+  * Updated menu icons, added rfcat and ubertooth
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 10 Aug 2013 17:24:53 -0400
+
 kali-menu (1.350) kali; urgency=low
 
   * Fixed 0trace menu item

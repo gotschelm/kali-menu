@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=zbconvert
+Name=ubertooth util
 Encoding=UTF-8
-Exec=sh -c "zbconvert -h;${SHELL:-bash}"
+Exec=sh -c "ubertooth-util -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-04-other-wireless;
-X-Kali-Package=killerbee
+X-Kali-Package=ubertooth
