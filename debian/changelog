@@ -1,3 +1,9 @@
+kali-menu (1.352) kali; urgency=low
+
+  * Added an SRD submenu in the wireless section
+
+ -- Mati Aharoni <muts@kali.org>  Tue, 13 Aug 2013 12:21:49 -0400
+
 kali-menu (1.351) kali; urgency=low
 
   * Updated menu icons, added rfcat and ubertooth
