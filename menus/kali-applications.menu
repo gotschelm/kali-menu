@@ -424,6 +424,15 @@
                                 <Category>05-04-other-wireless</Category>
                         </And></Include>
                 </Menu>
+
+                <Menu>
+                        <Name>Software Defined Radio</Name>
+                        <Directory>05-05-sdr-tools.directory</Directory>
+                        <Include><And>
+                                <Category>05-05-sdr-tools</Category>
+                        </And></Include>
+                </Menu>
+
 </Menu>
 
 

@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-04-other-wireless;
+Categories=05-05-sdr-tools;
 X-Kali-Package=rfcat
