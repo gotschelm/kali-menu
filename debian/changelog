@@ -1,3 +1,9 @@
+kali-menu (1.353) kali; urgency=low
+
+  * Aded bluesnarfer and mfterm desktop items
+
+ -- Mati Aharoni <muts@kali.org>  Mon, 19 Aug 2013 14:03:21 -0400
+
 kali-menu (1.352) kali; urgency=low
 
   * Added an SRD submenu in the wireless section
