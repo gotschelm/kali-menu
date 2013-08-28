@@ -1,3 +1,9 @@
+kali-menu (1.356) kali; urgency=low
+
+  * Added desktop file for cudahashcat-plus
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 28 Aug 2013 10:19:38 -0600
+
 kali-menu (1.355) kali; urgency=low
 
   * Added new desktop files for SDR
