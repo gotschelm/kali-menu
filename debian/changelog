@@ -1,3 +1,9 @@
+kali-menu (1.361) kali; urgency=low
+
+  * Edited the setoolkit menu entry (Closes: 0000584)
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 15 Oct 2013 10:50:48 -0600
+
 kali-menu (1.360) kali; urgency=low
 
   * Edited DFF menu, added golismero monu (Closes: 0000637 and 0000555)
