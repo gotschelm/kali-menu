@@ -1,3 +1,9 @@
+kali-menu (1.360) kali; urgency=low
+
+  * Edited DFF menu, added golismero monu (Closes: 0000637 and 0000555)
+
+ -- Emanuele Acri <crossbower@kali.org>  Tue, 15 Oct 2013 13:01:42 +0200
+
 kali-menu (1.359) kali; urgency=low
 
   * Edited the arachni desktop file.  (Closes: 0000319 and 0000450)
