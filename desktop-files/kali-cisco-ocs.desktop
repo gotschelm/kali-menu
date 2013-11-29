@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=cisco-ocs
 Encoding=UTF-8
-Exec=sh -c "ocs;${SHELL:-bash}"
+Exec=sh -c "cisco-ocs;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true

@@ -1,3 +1,10 @@
+kali-menu (1.362) kali; urgency=low
+
+  * Updating missing tools, #638 #708.
+  * Added "Exploit Dev Tools" submenu. 
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 29 Nov 2013 18:02:38 -0500
+
 kali-menu (1.361) kali; urgency=low
 
   * Edited the setoolkit menu entry (Closes: 0000584)

@@ -513,6 +513,17 @@
 			</And></Include>
 		</Menu>
 
+		<Menu>
+			<Name>Exploit Development Utilities</Name>
+			<Directory>06-10-exploit-dev.directory</Directory>
+			<Include>
+			<And>
+				<Category>06-10-exploit-dev</Category>
+			</And></Include>
+		</Menu>
+
+
+
 
 	</Menu>
 
