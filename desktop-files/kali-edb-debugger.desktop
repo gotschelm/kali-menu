@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=09-01-debuggers;
+Categories=09-01-debuggers;06-10-exploit-dev;
 X-Kali-Package=edb-debugger
