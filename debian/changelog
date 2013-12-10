@@ -1,3 +1,9 @@
+kali-menu (1.364) kali; urgency=low
+
+  * Added a desktop file for oclhashcat
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 10 Dec 2013 07:51:28 -0700
+
 kali-menu (1.363) kali; urgency=low
 
   * Added slowhttptest
