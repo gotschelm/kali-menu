@@ -1,3 +1,10 @@
+kali-menu (1.365) kali; urgency=low
+
+  * Removed oclhashcat-plus and oclhashcat-lite desktop files 
+  * (Closes: 0000868)
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 08 Jan 2014 16:25:20 -0700
+
 kali-menu (1.364) kali; urgency=low
 
   * Added a desktop file for oclhashcat
