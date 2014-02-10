@@ -3,6 +3,7 @@
 
 <Menu>
 <Name>Kali Applications</Name>
+<AppDir>/usr/share/kali-menu/applications</AppDir>
 <!-- Kali submenu -->
 <Menu>
 	<Name>Kali</Name>
