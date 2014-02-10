@@ -1,3 +1,9 @@
+kali-menu (1.366) kali; urgency=low
+
+  * Fixed error in dnsrecon desktop file
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 10 Feb 2014 10:13:11 -0700
+
 kali-menu (1.365) kali; urgency=low
 
   * Removed oclhashcat-plus and oclhashcat-lite desktop files 
